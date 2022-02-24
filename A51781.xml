@@ -1,0 +1,2453 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A short view of the lives of those illustrious princes, Henry Duke of Glovcester, and Mary Princess of Orange deceased, late brother and sister of His Majesty the King of Great Brittain collected by T.M. Esq., to whome the same will serve a rule &amp; pattern.</title>
+            <author>Manley, Thomas, 1628-1690.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 113 KB of XML-encoded text transcribed from 62 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51781</idno>
+            <idno type="STC">Wing M446</idno>
+            <idno type="STC">ESTC R8035</idno>
+            <idno type="EEBO-CITATION">12639314</idno>
+            <idno type="OCLC">ocm 12639314</idno>
+            <idno type="VID">64991</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51781)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 64991)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 697:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A short view of the lives of those illustrious princes, Henry Duke of Glovcester, and Mary Princess of Orange deceased, late brother and sister of His Majesty the King of Great Brittain collected by T.M. Esq., to whome the same will serve a rule &amp; pattern.</title>
+                  <author>Manley, Thomas, 1628-1690.</author>
+               </titleStmt>
+               <extent>[6], 114 [i.e. 116] p., 1 leaf of plates : port.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for a Society of Stationers,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1661.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Thomas Manley.  Cf. Wing.</note>
+                  <note>Errors in paging.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Henry, --  Duke of Gloucester, 1640-1660.</term>
+               <term>Mary, --  Princess Royal of England, 1631-1660.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:64991:1"/>
+            <pb facs="tcp:64991:1"/>
+            <p>A SHORT VIEW OF The Lives <hi>Of thoſe Illuſtrious
+Princes,</hi> HENRY DUKE OF <hi>GLO<g ref="char:V">Ʋ</g>CESTER,</hi> AND <hi>Mary</hi> Princeſs
+of <hi>Orange DECEASED:</hi> Late Brother and Siſter to his Majeſty the
+KING of <hi>Great Brittain.</hi>
+            </p>
+            <p>Collected by <hi>T. M.</hi> 
+               <abbr>Eſq</abbr> To whome the ſame
+will ſerve a Rule &amp; Pattern.</p>
+            <q>
+               <l>Ad exemplum totus componitur orbis</l> 
+               <l>Plus valent exempla quam praecepta</l>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed for a Society of Stationer, 1661.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:64991:2"/>
+            <pb facs="tcp:64991:2"/>
+            <head>TO THE Right Worſhipfull SIR <hi>Robert Bolles</hi> Baronet;
+AS Alſo to his moſt vertuous and worthy LADY.</head>
+            <p>BOokes have their fate as well as Cities and Kingdoms, and want
+their Patrons, as <hi>Rome</hi> did her Tutelar Gods; And if he was ſuch an
+one as <hi>Joſeph</hi> 
+               <pb facs="tcp:64991:3"/>was to <hi>Egypt,</hi> they will be
+eternized, if not for their owne merit, yet by the con<g ref="char:EOLhyphen"/>tinued freſhneſſe
+of his me<g ref="char:EOLhyphen"/>mory.</p>
+            <p>This hath been the mo<g ref="char:EOLhyphen"/>tive which induced me to this attempt upon
+your goodneſſe, not any ſuppoſi<g ref="char:EOLhyphen"/>tion in my ſelfe of knowing or being
+known to you, and ſuch I believe is your Can<g ref="char:EOLhyphen"/>dor, that you will account the
+Authors being unac<g ref="char:EOLhyphen"/>quainted rather his own than his Bookes unhappi<g ref="char:EOLhyphen"/>neſſe, 
+<pb facs="tcp:64991:3"/>and therefore hope you will own it, though not for it ſelfe, yet
+for the ſubjects ſake on which it treateth, which yeilds mat<g ref="char:EOLhyphen"/>ter both of
+joy and ſorrow to the whole Kingdome, wherein there were many overjoyed
+hearts for ſuch hopefull living Princes, and more weeping eyes for their
+ſudden and too imma<g ref="char:EOLhyphen"/>ture death.</p>
+            <p>I ſhall ſay no more, but recommend the work to your
+peruſall, wherein as <pb facs="tcp:64991:4"/>I hope you ſhall receive ſa<g ref="char:EOLhyphen"/>tisfaction,
+ſo in behalfe thereof I pray acceptance both to it and</p>
+            <closer>
+               <signed>Yours to ſerve you <hi>T. M.</hi>
+               </signed> 
+               <date>Feb. 4. 1660.</date>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div n="Henry duke of Gloucester and Mary princess of Orange" type="lives">
+            <pb n="1" facs="tcp:64991:4"/>
+            <head>A ſhort view of the lives of thoſe illuſtrious Princes,
+<hi>Henry</hi> Duke of Gloceſter, and MARY Princeſſe of Orange.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T hath been a rule com<g ref="char:EOLhyphen"/>mended unto us by an<g ref="char:EOLhyphen"/>tient and foregoing
+times, <hi>Non tutum eſt in illos ſcribere, qui poſſunt
+proſcribere,</hi> and the reaſon may be ſuppoſed for that the great
+ones of the World were for the moſt part ſo vitious that it made the old
+Poet cry out, <hi>Difficile eſt ſatyram non ſcribere;</hi> but ſuch and
+ſo different is our preſent conditi<g ref="char:EOLhyphen"/>on that we may venture to write,
+ſince neither our greateſt eulogyes <pb n="2" facs="tcp:64991:5"/>can be ſtiled
+hyperbolicall, nor our higheſt applauſes flattery; eſpecially where the
+ſubject of the diſcourſe are of the moſt noble ſtrain, as here
+iſſuing from the moſt royal Families of Europe, to the greatneſſe of
+which blood they have added a new and extraordina<g ref="char:EOLhyphen"/>ry luſter by the moſt
+eminent vir<g ref="char:EOLhyphen"/>tues wherewith they were adorned; for it may truly be ſaid of our
+late deceaſed Princes, as <hi>
+                  <g ref="char:V">Ʋ</g>liſſes</hi> boaſt<g ref="char:EOLhyphen"/>ed of himſelfe,
+<hi>Deus eſt in utroque Parente,</hi> there is ſcarce any Fami<g ref="char:EOLhyphen"/>ly of the
+World ſo highly and nobly allyed, for by birth they were the Son and Daughter
+of <hi>Charles</hi> the firſt, and <hi>Henrietta Maria,</hi> he by his Father
+ſprang from the an<g ref="char:EOLhyphen"/>tient ſtock of Scottiſh Kings, and by his Mother
+allyed to the <hi>Daniſh</hi> blood. But ſhe of the royal blood of
+<hi>France,</hi> Daughter of <hi>Henry</hi> the fourth ſurnamed great, and
+from him claiming a conſanguinious re<g ref="char:EOLhyphen"/>lation <pb n="3" facs="tcp:64991:5"/>both with the
+<hi>Germane, Ita<g ref="char:EOLhyphen"/>lian</hi> and <hi>Spaniſh</hi> Scepters; From this royal
+ſtock I ſay, iſſued the late illuſtrious Princeſſe <hi>Mary,</hi>
+Princeſſe of <hi>Orange,</hi> being born in<g ref="char:EOLhyphen"/>to this World on the fourth day
+of <hi>November,</hi> in the year 1631. The ſixth of her Fathers reign,<note place="margin">Lady Ma<g ref="char:EOLhyphen"/>ry born.</note> and not long after with much ſtate and
+ſolemnity baptized, being com<g ref="char:EOLhyphen"/>mitted to the ruition of a moſt ho<g ref="char:EOLhyphen"/>nourable
+and religious. Lady who was to take care of the tender in<g ref="char:EOLhyphen"/>fancy of the Princely
+babe.</p>
+            <p>In this unknown retiredneſſe muſt we let her paſſe her
+child<g ref="char:EOLhyphen"/>hood, although as then it was eſpe<g ref="char:EOLhyphen"/>cially in charge to every hand
+a<g ref="char:EOLhyphen"/>bout her, that nothing tending to the diſadvantage of the Proteſtant
+religion ſhould approach her eares a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> well knowing the certainty of that rule, <hi>Quo ſemel eſt
+imbuta re<g ref="char:EOLhyphen"/>cens ſeruabit odorem Teſta diu,</hi> and ſo indeed it proved;
+for the ſo early <pb n="4" facs="tcp:64991:6"/>&amp; even with her milk imbibed the
+ſame reformed religion, that nei<g ref="char:EOLhyphen"/>ther the ſubtilty of temptation nor the
+power of malice could ever divert her or make her to deviate therefrom; Nay
+ſo firmly was ſhe fixed and grounded therein, that when the Saternall love
+of her Father began now to caſt his eye abroad to find a fitting match for
+this his Peerleſſe Daughter, ſhe (though the ſmall number of her yeares
+did exact from her a ſub<g ref="char:EOLhyphen"/>miſſion to his will; yet) in a kind of womanly
+reſolve did in a man<g ref="char:EOLhyphen"/>ner declare her diſlike to a contra<g ref="char:EOLhyphen"/>ry religion, &amp;
+humbly deſired that her religion &amp; affection might not countercharge each
+other; Here<g ref="char:EOLhyphen"/>upon after many ediligent gueſts, at length the Prince of Orange
+is propounded, and that for ſeverall reaſons, firſt as being of the
+ſame religion, ſecondly the next adjoyn<g ref="char:EOLhyphen"/>ing neighbour by whoſe conjoyn<g ref="char:EOLhyphen"/>ed
+<pb n="5" facs="tcp:64991:6"/>ſupply of ſnipping the Engliſh, would be the moſt
+formidable Maſters of the Sea, and thirdly becauſe by that meanes both the
+<hi>Spaniſh</hi> and <hi>French</hi> were &amp; would be in their deſignes
+countermined, hereupon and for divers other un<g ref="char:EOLhyphen"/>known reaſons of ſtate.</p>
+            <q>
+               <l>— Suorum corda Britannum Cum ſocijs Belgis vindo
+propiore Liganda,</l> 
+               <l>
+                  <note place="margin">Treaty of marriage with
+O<g ref="char:EOLhyphen"/>range.</note>Firmandumque Vetus potiori pig<g ref="char:EOLhyphen"/>nore ſoedus.</l>
+            </q>
+            <p>A treaty is had about the ſame, and it was concluded that
+<hi>William</hi> the onely Son and Heir of the moſt noble Prince of
+<hi>Orange,</hi> ſhould entermarry with the Lady <hi>Mary,</hi> eldeſt
+Daughter to the King of <hi>Great Brittain,</hi> accord<g ref="char:EOLhyphen"/>ing to which agreement
+the young Prince the 20th. of <hi>February,</hi>
+               <note place="margin">Prince of
+Orange came to London.</note> 1641. arrived at <hi>London</hi> waited on by a
+magnificent train of the chiefeſt Nobles of his own Coun<g ref="char:EOLhyphen"/>trey.</p>
+            <pb n="6" facs="tcp:64991:7"/>
+            <p>During this Intervall of time, and while theſe affaires were
+thus in managing, was born the Kings youngeſt Son, entituled the <hi>Duke of
+Glouceſter</hi> at <hi>Oatlands</hi> in the month of <hi>July</hi> 1640. and
+in <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> following was baptized and called <hi>Henry,</hi>
+               <note place="margin">Duke of Gl<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceſter born.</note> a Prince who from his birth bore the
+expreſſe Image of his Father, and not onely as at firſt in his perſon,
+but as after ap<g ref="char:EOLhyphen"/>peared in his vertues, and for the more orderly proceeding
+towards his future education, he was com<g ref="char:EOLhyphen"/>mitted to the care of an honour<g ref="char:EOLhyphen"/>able
+Lady.</p>
+            <p>He<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ven having
+ſhowr'd down his bleſſings on the Kings hopefull and numerous Iſſue,
+from whome nothing might be expected but the future happineſſe of our now
+long continued peace; behold on a ſudden the <hi>Scots</hi> in a hot ſpur'd
+zeale, or rather in a fanatick fury envying ſo much proſperity to the 
+<pb n="7" facs="tcp:64991:7"/>King and State, begin to harbour dangerous thoughts; yea and
+pro<g ref="char:EOLhyphen"/>ceed to rebellious actions, trea<g ref="char:EOLhyphen"/>cherouſly poſſeſſing
+themſelves of <hi>Edenhorough Caſtle,</hi> which was de<g ref="char:EOLhyphen"/>livered to the
+Generall of the <hi>Co<g ref="char:EOLhyphen"/>venanters</hi> without any ſhot or reſi<g ref="char:EOLhyphen"/>ſtance
+made by the treacherous Go<g ref="char:EOLhyphen"/>vernor. What Bulworks,<note place="margin">SCOTS
+troubles.</note> Fortreſſes or other defenſive fortifications can retain
+or keep the poſſeſſion of a Kings right, when eminent Tru<g ref="char:EOLhyphen"/>ſtees, for
+hope, fear, or reward, betray their charge and forfeit their fidelity.
+<hi>Dunoritton Fort,</hi> once reported invincible, fell next into their hands,
+being in the cuſtody of a perſon of worth well fortified and weaponed, but
+through the ill victualling thereof, loſt with little noiſe and leſſe
+re<g ref="char:EOLhyphen"/>ſiſtance; puffed up with theſe ſuc<g ref="char:EOLhyphen"/>ceſſes the
+<hi>Covenanters</hi> march on to <hi>Dalkeyth</hi> a Houſe of his
+Maje<g ref="char:EOLhyphen"/>ſties, which they took into their <pb n="8" facs="tcp:64991:8"/>poſſeſſion
+without any oppoſition, wherein as they expected they found a plentifull
+ſtore of Ammu<g ref="char:EOLhyphen"/>nition, and beyond their expecta<g ref="char:EOLhyphen"/>tion, the Crown, Scepter, and
+other Regalia of that ancient Kingdome, which they quickly removed to
+<hi>Edenborough Caſtle,</hi> and there with great reverence and much care
+diſpoſed them to ſafe cuſtody, pretending they were diſplaced before
+at <hi>Dalkeyth.</hi> The newes of theſe occurrences arri<g ref="char:EOLhyphen"/>ving freſh to the
+Kings eare (where affection before would not make him harbour an ill thought of
+his Countrey men) now made him change his opinion, and in the midſt of all
+the pleaſure and joy conceived for his young Son Duke <hi>Henry,</hi> to
+leave both him and his Mother the Queen to provide a remedy to prevent theſe
+threat<g ref="char:EOLhyphen"/>ning evills.</p>
+            <p>By this means was the infant <pb n="9" facs="tcp:64991:8"/>Prince deprived of
+the right and knowledge of his Father both at once,<note place="margin">KING
+towards Scotland.</note> his rebellious Covenanting Subjects of
+<hi>Scotland</hi> calling him to their more northern parts, where he reſolved
+(if poſſible) by fair means to perſwade them, or elſe by repelling
+force with force to reduce them to their obedi<g ref="char:EOLhyphen"/>ence.</p>
+            <p>While the King is raiſing force to march towards them, the
+<hi>Scots</hi> go to, and againſt <hi>Aberdeen;</hi> reſtleſſe natures
+are never out of action, and diſcontented perſons ever deſirous of
+innovation, if the deſigne be good they under<g ref="char:EOLhyphen"/>take, they ſtill purſue it
+with all diligence; if ill, they proſecute it with no leſſe induſtry,
+witneſſe theſe men, who in their ſaid march took 4000 armes that were
+going thither to have put the City into a poſture of defence, ſo that now
+the Kings armes were carried a<g ref="char:EOLhyphen"/>gainſt <pb n="10" facs="tcp:64991:9"/>the Kings cauſe,
+there be<g ref="char:EOLhyphen"/>ing no party through the prevalen<g ref="char:EOLhyphen"/>cy of the averſe faction that
+durſt appear for the King, nay to ſuch a height were theſe men grown,
+that they had an intention to have ſurprized <hi>Barwick,</hi> but their
+in<g ref="char:EOLhyphen"/>tended attempt was not ſo cloſely carried and reſolved on amongſt
+themſelves, but that timely notice therof was attained by the
+<hi>Engliſh,</hi> and for prevention of the ſame, command was forthwith
+given for ſome raiſements of Foot, and Troop<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Horſe of the Biſhop-prick; of
+<hi>Durham</hi> and the northern parts to move with ſpeedy marches thither,
+and there ſo to diſpoſe of their power as to be able to re<g ref="char:EOLhyphen"/>ſiſt any
+offer from the Enemy, which was effectually perform<g ref="char:EOLhyphen"/>ed.</p>
+            <p>
+               <note place="margin">SCOTS manner of proceed<g ref="char:EOLhyphen"/>ings.</note>The
+<hi>Scots</hi> perceiving they were prevented in that deſigne, fall to
+Councell, and knowing <pb n="11" facs="tcp:64991:9"/>that there are two wayes which
+infallibly make rich men potent, and poor men rich, the firſt being great
+getting, and the latter, the keeping things gotten, and that if there be a
+failing in either of theſe two, there will be a ſudden ſenſe of the
+ſtand put to greatneſſe, and of the eſtates declining fortune) do
+cowardly make it their ſtudy to retain the Towns and Forts they had gotten
+into their poſſeſſion, and therefore with art and expe<g ref="char:EOLhyphen"/>dition
+<hi>Leith</hi> muſt be fortified, ſo that it may oppoſe any power that
+ſhould preſent it ſelfe againſt in; and the like they alſo did in
+other place.</p>
+            <p>Notwithſtanding all which prodigious acts of Treaſon, like the
+Adulterous Woman ſpoken of by the Wiſe Man, they will not believe they have
+done amiſſe, for as if they have been the trueſt Subjects in the world,
+on the fifth <pb n="12" facs="tcp:64991:10"/>of <hi>June</hi> the Earl of
+<hi>Dumfermeling</hi> preſented to his Majeſty a Petiti<g ref="char:EOLhyphen"/>on at his Pavilion
+in the Camp, which he graciouſly accepted and read, wherein the
+<hi>Scots</hi> humbly ſued for an accomodation, and his Majeſty was
+thereupon pleaſed to enter into a Treaty with them, the iſſue whereof was
+that the <hi>Scots</hi> ſhould disband their Forces, and ſurrender to the
+King all his caſtles, but the main matters to be conclu<g ref="char:EOLhyphen"/>ded by Parliament,
+which was to meet not long after at <hi>London,</hi> whither the Scots ſent
+their Com<g ref="char:EOLhyphen"/>miſſioners, and made a full and finall agreement.</p>
+            <p>By this meanes the King at<g ref="char:EOLhyphen"/>tended with all his Nobility made up to
+<hi>London,</hi> where in <hi>November</hi> 1640. a black long Parliament
+(whoſe actions never had a paral<g ref="char:EOLhyphen"/>lel) met, during the time of whoſe firſt
+ſitting all things began to grow out of order, yet they hearkned in 
+<pb n="13" facs="tcp:64991:10"/>ſome meaſure to the Kings deſires for the marriage of
+the Lady <hi>Mary</hi> to the Prince of <hi>Orange,</hi>
+               <note place="margin">Lady
+Ma<g ref="char:EOLhyphen"/>ry marri<g ref="char:EOLhyphen"/>ed.</note> was with great ſtate and pomp celebrated at
+<hi>Whitehall</hi> in <hi>May</hi> 1641. to the great ſatisfaction both of
+Prince and people, as it then ſeemed, 
+<q>
+                  <l>
+                     <hi>Laetior hac nulla est unguam lux orta Britannis:</hi>
+                  </l> 
+                  <l>
+                     <hi>
+                        <g ref="char:V">Ʋ</g>nus Hymen populo est: unum<g ref="char:EOLhyphen"/>que agit Anglia
+feſtum.</hi>
+                  </l> 
+                  <l>
+                     <hi>Tot que dies nitet una dies, ſe latior ipſa,</hi>
+                  </l> 
+                  <l>
+                     <hi>Dum redit, et primi non ceſſant gau<g ref="char:EOLhyphen"/>dia
+feſti.</hi>
+                  </l> 
+                  <l>No day more joyfull ere did Brit<g ref="char:EOLhyphen"/>tain ſee,</l> 
+                  <l>Both King and people in their mirth agree,</l> 
+                  <l>Nor for a ſpurt does their grand feaſting laſt,</l> 
+                  <l>But each new coming day outvies the Faſt.</l>
+               </q>
+            </p>
+            <p>During all theſe ſolemnities, at the Court the Engliſh
+Parliament <pb n="14" facs="tcp:64991:11"/>are driving a contrary deſigne, in<g ref="char:EOLhyphen"/>citing
+tumults to cry down the Biſhops, which was proſecuted with ſuch violence
+that the King was neceſſitated for ſecurity of his Perſon to withdraw
+from <hi>London,</hi>
+               <note place="margin">Janua. 10. 1641.</note> and with the
+Queen, Prince, and Duke of York to retire to Hamp<g ref="char:EOLhyphen"/>ton Court, from whence in
+<hi>Febru<g ref="char:EOLhyphen"/>ary</hi> following accompanyed with the Queen and the Princeſſe
+of <hi>Orange,</hi> he went to <hi>Canterbury,</hi> and ſo to <hi>Dover,</hi>
+where the Lady <hi>Mary</hi> Princeſſe of <hi>Orange</hi> took leave of her
+Father and Mother and imbarqued for <hi>Holland,</hi>
+               <note place="margin">Lady
+Ma<g ref="char:EOLhyphen"/>ry to Hol<g ref="char:EOLhyphen"/>land.</note> the Prince her Husbands Countrey, where ſhe
+ſafely landed and arrived but never after that day ſaw
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he face of her beloved
+Father.</p>
+            <p>The Princeſſe being now in the Low-Countreys, was received, by
+her Father in Law the old Prince of <hi>Orange,</hi> as did become the Daughter
+of ſo great a King, into <pb n="15" facs="tcp:64991:11"/>whoſe preſence he would
+never ap<g ref="char:EOLhyphen"/>proach, but with a reverence more like a ſubject towards his
+Soveraign then the freedome of a Father to<g ref="char:EOLhyphen"/>wards his Sons Wife, by no meanes
+ſuffring either himſelfe or his Son, much leſſe his Servants to come
+neer the place of her reſidence but bareheaded, and to his dying day, yea
+even in his death-bed maintain<g ref="char:EOLhyphen"/>ing the ſame as due to the greatneſs of her
+birth, and excellent virtues.</p>
+            <p>And truly the Princes of <hi>Orange</hi> Father and Son did make
+it their ſtudy to deſerve well at the King of <hi>Englands</hi> hands to
+whom they ever continued faſt and true friends during all the time of his
+ſucceed<g ref="char:EOLhyphen"/>ing troubles, when by the treaſon and ſedition of his rebellious
+ſub<g ref="char:EOLhyphen"/>jects he was hunted from place to place like a Partridge upon the
+Mountaines, til at laſt having taken the Lords anointed in their pits, they
+deſtroyed the Father, expelled <pb n="16" facs="tcp:64991:12"/>the Sons, and endeavoured
+to ex<g ref="char:EOLhyphen"/>tirpate the whole royal Family.</p>
+            <p>When his Majeſty was by tu<g ref="char:EOLhyphen"/>mults driven from <hi>London,</hi> he
+left his children behind him, but after<g ref="char:EOLhyphen"/>wards ſent for the Prince and Duke of
+York to come to him to <hi>Green<g ref="char:EOLhyphen"/>wich,</hi> which they did; but ſtill there
+remained at Saint <hi>James's</hi> the Lady <hi>Elizabeth</hi> one of the Kings
+Daughters who ſince dyed, and <hi>Henry</hi> Duke of Gloceſter, both of
+ſo tender years that they were neither ſenſible of their Fathers
+ſufferings nor capable to releive them; ſo that their innocent
+harm<g ref="char:EOLhyphen"/>leſsneſſe on any account not only protected them from the malice of
+their enemies, but proved to be a meanes to work on their evil mindes to
+provide for them not only an honorable ſuſtenance, but a royall
+attendance.</p>
+            <p>
+               <note place="margin">He never knew his Father.</note>In this manner
+did the young Duke lead his life, almoſt ignorant <pb n="17" facs="tcp:64991:12"/>that he
+had a father, for he had ne<g ref="char:EOLhyphen"/>ver ſeen his face, ſo as to be able by
+knowledge to diſtinguiſh the ſame from that of a ſtranger, be<g ref="char:EOLhyphen"/>ing born
+in 1640. and his father, mother and brothers forced to fly in 1641. ſo that
+he was a ſtran<g ref="char:EOLhyphen"/>ger to his own kindred, and to them that kept him, in effect
+no better than a noble priſoner; in all which time ſuch was the
+ſeriouſneſſe of his tender age, as wrought admira<g ref="char:EOLhyphen"/>tion in his
+attendants, for he pro<g ref="char:EOLhyphen"/>ceeded in ſo ſweet a method, that he was able in
+point of Religion (wherein he was excellently well grounded) to render an
+account beyond many whoſe yeares ſhould have manifeſted a ſurer and
+more certain judgement.</p>
+            <p>The heat of the warre between the King and Parliament now growing
+more ſlack by the weak<g ref="char:EOLhyphen"/>neſſe of the Kings forces, who were ſo over
+powered by their Enemies <pb n="18" facs="tcp:64991:13"/>that they utterly left the field,
+yea and upon ſight of the other Ar<g ref="char:EOLhyphen"/>my, quit and ſurrendred their
+ga<g ref="char:EOLhyphen"/>riſons without any blow; the King himſelf fled to the perfidious
+<hi>Scots</hi> Army then at <hi>Southwell,</hi>
+               <note place="margin">King to the
+Scots, and by them ſold to the Engliſh.</note> and ſhort<g ref="char:EOLhyphen"/>ly after,
+<hi>Oxford</hi> the chief of all his gariſons fell into the hand of General
+<hi>Fairfax</hi> by compoſition, and with it the Duke of <hi>York,</hi>
+               <note place="margin">Duke of York ta<g ref="char:EOLhyphen"/>ken priſo<g ref="char:EOLhyphen"/>ner at Ox<g ref="char:EOLhyphen"/>ford, 1646</note> the Kings
+ſecond ſon, whom the Ge<g ref="char:EOLhyphen"/>neral ſent up to the then Parlia<g ref="char:EOLhyphen"/>ment, to
+diſpoſe of as they ſhould ſee convenient; they to ſhew him what he
+muſt expect for the future, as a ſpecial mark of their favour, on the 9th
+of <hi>July</hi> 1646. diſchar<g ref="char:EOLhyphen"/>ged all his ſervants, and thruſt them away
+from him,<note place="margin">D. Yorks ſervants.</note> whoſe fide<g ref="char:EOLhyphen"/>lity could
+never be either reduced or frighted to leave him in times of the greateſt
+hazard and danger: By this meanes the young Duke hath gotten his brother for
+his co-partner, the ſame ſervants wait<g ref="char:EOLhyphen"/>ing <pb n="19" facs="tcp:64991:13"/>on both,
+ſo that one might truly ſee between them the old proverb truly verified,
+<hi>Amicorum omnium communia.</hi>
+            </p>
+            <p>This new ſociety was exceeding<g ref="char:EOLhyphen"/>ly pleaſing to the young
+innocent, who began now to hearken to his brothers diſcourſes with a
+man<g ref="char:EOLhyphen"/>like attention, imbibing from his lips a new, though natural affecti<g ref="char:EOLhyphen"/>on,
+towards his unknown and di<g ref="char:EOLhyphen"/>ſtreſſed father, who about this time was
+ſold by the <hi>Scots</hi> to the <hi>Engliſh,</hi> and by them ſtrictly
+guar<g ref="char:EOLhyphen"/>ded, conveyed as a Priſoner to a houſe of his own in
+<hi>Northampton<g ref="char:EOLhyphen"/>ſhire</hi> called <hi>Holmby;</hi>
+               <note place="margin">King at
+Holmeby, and taken thence by Joyce.</note> where he had not long continued,
+before one <hi>Joyce,</hi> a fellow of deſperate prin<g ref="char:EOLhyphen"/>ciples, employed by a
+factious par<g ref="char:EOLhyphen"/>ty in the army, came and ſeized his perſon, and hurried it
+from place to place, till at laſt they brought him to
+<hi>Hampton-Court,</hi>
+               <note place="margin">At Hamp<g ref="char:EOLhyphen"/>ton-Court</note> from whence
+he was by perſwaſi<g ref="char:EOLhyphen"/>ons <pb n="20" facs="tcp:64991:14"/>deluded into the <hi>Iſle of
+Wight,</hi> where he was immediately ſecured and kept a ſtrait priſoner
+in <hi>Caris<g ref="char:EOLhyphen"/>brook</hi> Caſtle.</p>
+            <p>The Duke of <hi>York</hi> ſeeing af<g ref="char:EOLhyphen"/>faires to be managed in ſo
+rigorous a manner againſt his father, began to think of providing for his own
+ſafety,<note place="margin">Du. Yorks eſcape from St. James's.</note> to
+which end, finding ſome honeſt and private correſpondents in whom he
+might put truſt, he propoſes his eſcape, whereunto by a mutual conſent
+the engaged per<g ref="char:EOLhyphen"/>ſons undertook to provide conve<g ref="char:EOLhyphen"/>niencies for him, which they
+brought effectually and with ſe<g ref="char:EOLhyphen"/>creſie to paſſe in <hi>Aprill</hi>
+1648. ſo that on the 20th of that moneth he left St. <hi>James</hi>'s, and
+was not miſſed for ſeveral houres after his his departure; by which
+meanes he clearly got away with ſafety, and retired into <hi>France,</hi>
+leaving his ene<g ref="char:EOLhyphen"/>mies and pretended keepers to la<g ref="char:EOLhyphen"/>ment their own misfortune,
+while <pb n="21" facs="tcp:64991:14"/>himſelf rejoyced in his own ſecu<g ref="char:EOLhyphen"/>rity, and having
+ſtollen himſelf from them.</p>
+            <p>This loſſe added new affliction to the Duke of
+<hi>Glouceſter,</hi> not ha<g ref="char:EOLhyphen"/>ving loſt only a brother, but a comforter and
+inſtructer, ſo that he began to grow melancholy, eſpecially receiving
+daily intima<g ref="char:EOLhyphen"/>tion from that mirror of her age his dear ſiſter the Lady
+<hi>Elizabeth,</hi> of the hourely danger both them<g ref="char:EOLhyphen"/>ſelves and father ſtood
+in; and in<g ref="char:EOLhyphen"/>deed it began to appear more and more every day, for the Army un<g ref="char:EOLhyphen"/>der
+<hi>Cromwell</hi> had violated the trea<g ref="char:EOLhyphen"/>ty in the <hi>Iſle of Wight,</hi> and
+once more laid traiterous hands on the ſacred perſon of over clouded
+Ma<g ref="char:EOLhyphen"/>jeſty, carrying him firſt to <hi>Hurſt,</hi> and at length brought him
+to St. <hi>James</hi>'s near <hi>London,</hi> where they moſt barbarouſly
+murdered him.</p>
+            <p>On the 29th of <hi>January,</hi> which was the day before he dyed,
+he de<g ref="char:EOLhyphen"/>ſired <pb n="22" facs="tcp:64991:15"/>he might ſee and take his laſt farewell
+of his children,<note place="margin">D. Glou<g ref="char:EOLhyphen"/>ceſter comes to the King, and his
+anſwer to him.</note> which with ſome regret was granted, and the Lady
+<hi>Elizabeth</hi> and the Duke of <hi>Glouceſter</hi> brought to him. The
+King taking the Duke upon his knee, ſaid, Sweet heart, now they will cut off
+thy fathers head, mark child what I ſay, they will cut off my head, and
+perhaps make thee a King, but you muſt not be a King ſo long as your
+brothers <hi>Charles</hi> and <hi>James</hi> be living, for they will cut off
+your brothers heads (when they can catch them) and cut off thy head too at the
+laſt, and there<g ref="char:EOLhyphen"/>fore I charge you not to be made a King by them. At which
+words the child ſmiling ſaid, I will be torn in pieces firſt, which
+falling ſo unexpectedly from one ſo young, made the King rejoyce
+ex<g ref="char:EOLhyphen"/>ceedingly.</p>
+            <p>The ſame day the King urged it again to the little Duke, that he
+<pb n="23" facs="tcp:64991:15"/>might not take the Kingdome if he regarded the good of his
+ſoul, and therefore commanded him up<g ref="char:EOLhyphen"/>on his bleſſing not to accept
+there<g ref="char:EOLhyphen"/>of, unleſſe it lawfully redounded to him: to whom he anſwered to
+this effect, that he hoped God would give him grace to be more contented with
+the legal title of <hi>Glouceſter,</hi> then the uſurped autho<g ref="char:EOLhyphen"/>rity of that
+right which from God and nature belonged to another; and after that day he
+never ſaw his fathers face more.</p>
+            <p>Near upon two yeares after this he continued at <hi>London,</hi>
+although the Juncto had now ordered they ſhould have no longer any honour
+uſed towards them, which a little ſtartled our young Princes,<note place="margin">D. Glou<g ref="char:EOLhyphen"/>ceſter and Lady Eliz. to Caris<g ref="char:EOLhyphen"/>brook in the Iſle of
+Wight.</note> but what a condition may we imagine them to be in when newes
+arrived to their eares that they were or<g ref="char:EOLhyphen"/>dered to be carried Priſoners to
+<hi>Carisbrook</hi> Caſtle, the ſame fatal <pb n="24" facs="tcp:64991:16"/>place where
+their father had ſuffer<g ref="char:EOLhyphen"/>ed ſo many indignities. This I ſay did ſtrike
+ſomewhat cloſe to them, eſpecially when on the 31 of <hi>July</hi> 1650.
+they were neceſſitated to go thither with untoward atten<g ref="char:EOLhyphen"/>dants, and
+leſſe reſpect; which, to<g ref="char:EOLhyphen"/>gether with the other ſorrowes that they had
+daily undergone, wrought ſo on the ſpirit of the diſ<g ref="char:EOLhyphen"/>cerning, though
+diſconſolate La<g ref="char:EOLhyphen"/>dy,<note place="margin">Lady Eliz. dyed.</note> that ſhe
+ſoon fell into a Con<g ref="char:EOLhyphen"/>ſumption, and on the 8th of <hi>Sep<g ref="char:EOLhyphen"/>tember</hi> in the
+ſame year, dyed at <hi>Carisbrook,</hi> and on the 24th of the ſame was
+privately interred at <hi>Newport</hi> in the <hi>Iſle of Wight.</hi>
+            </p>
+            <p>
+               <note place="margin">D. Glou<g ref="char:EOLhyphen"/>ceſter or<g ref="char:EOLhyphen"/>der'd to be ſent be<g ref="char:EOLhyphen"/>yond
+Sea.</note>Now is the little Duke totally left alone, to take comfort onely in
+his ſolitary meditations, when thoſe monſters at <hi>Weſtminſter</hi>
+fell into conſideration what to do with him: after many various and
+un<g ref="char:EOLhyphen"/>mannerly debates, they reſolve to ſhip him away beyond Sea, which 
+<pb n="25" facs="tcp:64991:16"/>coming to the Dukes hearing, (being now about eleven yeares
+of age) he gave God thanks that he ſhould be ſo delivered, and that he had
+ſo reſtrained their malice, that though they had the will, they had not yet
+the power to hurt him. My father told me (ſaid he to one about him) that God
+would pro<g ref="char:EOLhyphen"/>vide for me, which he hath abun<g ref="char:EOLhyphen"/>dantly done, in that he deliveteth me
+as a Lamb out of the pawes of the devouring Lyon.</p>
+            <p>According to the ſaid foreta<g ref="char:EOLhyphen"/>ken reſolution, they order his
+go<g ref="char:EOLhyphen"/>ing beyond Sea, and ſend a Tutor along with him, giving him in charge,
+Firſt, that he ſhould go and ſtudy at a Proteſtant School. Secondly,
+that he keep correſpon<g ref="char:EOLhyphen"/>dence with the Parliament by let<g ref="char:EOLhyphen"/>ters, and that his
+tutor ſhould ren<g ref="char:EOLhyphen"/>der them an account of his pro<g ref="char:EOLhyphen"/>greſſe and proficiency in
+learning. Thirdly, that he ſhould not go <pb n="26" facs="tcp:64991:17"/>near his mother
+or brothers, or have any thing to do with them, but in all things utterly
+diſown them: and fourthly, that he ſhall immediately return upon notice
+from the Parliament to him given to that purpoſe; and upon theſe and the
+like termes he goes away, with an allowance of 3000 <abbr>l.</abbr> a year: but
+ſee the gallantry of this young Princes ſpirit, he is no ſoon<g ref="char:EOLhyphen"/>er at
+liberty,<note place="margin">H<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s allow<g ref="char:EOLhyphen"/>ance he quits, and the reaſon why.</note> but, ſlighting
+all theſe propoſitions, he goes to <hi>France,</hi> viſits his mother and
+bro<g ref="char:EOLhyphen"/>thers, takes the bleſſing of the one, ſalutes the other, and after a
+ſhort ſtay, for the future improvement of his learning, he goes to
+<hi>Leyden,</hi> and there ſettles to ſtudy.</p>
+            <p>While the Duke of <hi>Glouceſter</hi> is thus preparing to fit
+himſelf to enter into the world,<note place="margin">Prince of Orange
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yes.</note> the Prince of
+<hi>Orange</hi> husband to the Lady <hi>Mary</hi> paſſeth out of this world
+into ano<g ref="char:EOLhyphen"/>ther by death, on the 8th of <hi>Octo<g ref="char:EOLhyphen"/>ber</hi> 
+               <pb n="27" facs="tcp:64991:17"/>in
+the year 1650. when he had brought the ſtiffe-necked <hi>Hol<g ref="char:EOLhyphen"/>lander</hi> to
+reaſon, who began to wince at his ſuperiority, and was in hopes to have
+ſeen iſſue of his own loynes; for in <hi>November</hi> while his funeral
+was not yet paſt, the Lady <hi>Mary</hi> Princeſs Dowager of
+<hi>Orange,</hi> was delivered of a ſon,<note place="margin">Princeſſe
+Dowager <gap reason="illegible" resp="#OXF" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> brought to bed of a
+ſon.</note> to the no ſmall joy of his mother and all her relations, to
+whom this was looked on as a proſperous <hi>Omen</hi> of future
+happineſſe, for that thereby was ſetled a continu<g ref="char:EOLhyphen"/>ance of amity between
+the <hi>Hol<g ref="char:EOLhyphen"/>lander</hi> and <hi>Engliſh,</hi> on behalf of the King of
+<hi>England,</hi> whoſe quar<g ref="char:EOLhyphen"/>rel they ſhortly after endeavoured to
+maintain, in ſeveral ſharp bat<g ref="char:EOLhyphen"/>tels at Sea, though not with ſuch
+ſucceſſe as was hoped, and expect<g ref="char:EOLhyphen"/>ed from ſuch a powerfull
+aſſi<g ref="char:EOLhyphen"/>ſtance.</p>
+            <p>When the Princeſſe was well recovered of her childbed, the 
+<pb n="28" facs="tcp:64991:18"/>States of the Country had taken order for the ſolemn
+funerall of their deceaſed Prince,<note place="margin">Prince of Orange
+interred ſolemnly.</note> which was with great ſtate celebrated on the
+fifteenth day of <hi>March</hi> following, being attended with a gallant
+num<g ref="char:EOLhyphen"/>ber of Gentry, and followed with a noble equipage of valiant ſoul<g ref="char:EOLhyphen"/>diers,
+till he was interred among the reſt of his famous anceſtors, whoſe worthy
+deeds when living, are a more laſting and honourable tomb then ought can be
+inſcribed on braſſe or marble.</p>
+            <p>The <hi>Engliſh</hi> rebels having as aforeſaid murdered their
+Sove<g ref="char:EOLhyphen"/>reign, and baniſhed his ſons to ſeek their fortunes in foreign
+lands, the <hi>Scots</hi> who had betrayed the father ſeek to make amends to
+the ſon, by reſtoring him to his paternal in<g ref="char:EOLhyphen"/>heritance;<note place="margin">King C. 2. <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>th
+his <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iſter of Orange at
+Bredah.</note> whereupon a treaty is had with the ſaid <hi>Scots</hi> at
+<hi>Bredah,</hi> a town belonging to the Princeſſe of <hi>Orange,</hi> for
+there with moſt <pb n="29" facs="tcp:64991:18"/>ſecurity he durſt intruſt his
+perſon, well knowing he might caſt him<g ref="char:EOLhyphen"/>ſelf into the armes of his
+deareſt ſiſter, who had neither ſpared time, labor, friends or money,
+to advance his intereſt, ſo trampled on by daring Treaſon.</p>
+            <p>We left the Duke of <hi>Glouce<g ref="char:EOLhyphen"/>ſter</hi> at <hi>Leyden</hi>
+following his ſtudy,<note place="margin">D. Glou<g ref="char:EOLhyphen"/>ceſter at Leyden.</note>
+being grown a moſt compleat Gentleman, and rarely accom<g ref="char:EOLhyphen"/>pliſhed, of
+complexion much like his father, his hair of a ſad or dark brown, of a middle
+ſtature, ſtrong judgement, a deep and reaching underſtanding, and a
+moſt pleaſing affable delivery, ſo that it might truly be ſaid of him 
+<q>Mens formoſa tegi formoſo cor<g ref="char:EOLhyphen"/>pore gaudet.</q> And indeed
+this made him be be<g ref="char:EOLhyphen"/>loved and honoured in the fight of all men;<note place="margin">His ea<g ref="char:EOLhyphen"/>neſtneſſe to attain learning.</note> for ſuch was
+his for<g ref="char:EOLhyphen"/>wardneſſe and zeal to learning, and to attain the Arts, that he 
+<pb n="30" facs="tcp:64991:19"/>would ſteal from his houres of reſt to adde to them of
+his ſtudy,<note place="margin">Iliad. 8.</note> ta<g ref="char:EOLhyphen"/>king that of <hi>Homer</hi>
+as if ſpoken to himſelf 
+<q>
+                  <l>
+                     <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>. id eſt,</l> 
+                  <l>Conciliarium non licet integram.</l> 
+                  <l>dormire noctem.</l>
+               </q> And <hi>Plautus</hi> ſaith, 
+<q>
+                  <l>
+                     <note place="margin">In Ruden.</note>—Vigilare decel
+hominem</l> 
+                  <l>Qui vult ſua tempore conficere beneficia</l> 
+                  <l>Nam qui dormiunt libenter, ſine Lucro</l> 
+                  <l>Et cum malo quieſcunt.—</l>
+               </q> Striving to imitate
+that famous conquerour of the world <hi>Alexan<g ref="char:EOLhyphen"/>ander</hi> the great, who being
+asked how in ſo ſhort a time he had done ſuch great things, which another
+could revolve in his mind in the ſame time, anſwered, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>,
+noting thereby a continu<g ref="char:EOLhyphen"/>ed induſtry with which he did al<g ref="char:EOLhyphen"/>wayes follow his
+occaſions, and conſtantly perſevere in the purſuit <pb n="31" facs="tcp:64991:19"/>of his propoſed end, letting no occaſion of well managing his his
+buſineſſe, raſhly or negligently ſlip out of his hands. And indeed
+out Duke fell ſhort in nothing of that Heathen, for he never would contract
+or let fall his ſpirit,<note place="margin">His indu<g ref="char:EOLhyphen"/>ſtry.</note> ſo as he
+might ſeem to be overpreſſed, but rather would chearfully and freely, not
+as of conſtraint, meet occaſions, and by all meanes en<g ref="char:EOLhyphen"/>deavour to forward,
+never with a fine-ſpun complement to delay or procraſtinate any
+deſign.</p>
+            <p>
+               <hi>Imbue Puerum,</hi>
+               <note place="margin">Pro. 22.6.</note>
+Inſtruct a child (ſaith <hi>Solomon</hi>) in the way where<g ref="char:EOLhyphen"/>in he ſhould
+walk, and when he is old he will not depart therefrom, for as the teaching is,
+ſuch will the manners, according to that 
+<q>Morum quos fecit, praemia doctor habei.</q> This rule being
+cloſely followed by him in his childhood, was ne<g ref="char:EOLhyphen"/>ver after forgotren; for he
+made <pb n="32" facs="tcp:64991:20"/>it his chief work to ſatisfie his judgement in the
+controverſies of Religion,<note place="margin">His reli<g ref="char:EOLhyphen"/>gion.</note> as knowing
+that 
+<q>Principis eſt virtus maxima, no<g ref="char:EOLhyphen"/>ſce Deum.</q> And herein
+certainly he was ſo perfect, that all about him were admiting hearets of his
+profound diſcourſes,<note place="margin">His Elo<g ref="char:EOLhyphen"/>quence.</note> his words
+dropping from him in a mellifluous manner both to delight and ſatisfaction. 
+<q>Mente valet, juncta eſt facundis gratia didit.<note place="margin">Homer de Iliſs:</note>
+               </q> His inſight in humane learning was
+very great, ſo that he was courted by foreigners as a ſon of wiſdome, by
+whoſe example, the exceſſe of his followers was aba<g ref="char:EOLhyphen"/>ted, for they did
+<hi>ſubire animos magno authori,</hi> tye their minds to his rule,<note place="margin">His
+mode ration.</note> to the perfect fulfilling that rule of the Poer, 
+<q>
+                  <l>
+                     <hi>Si ſtudia &amp; mores populi cogno<g ref="char:EOLhyphen"/>ſcere
+curas</hi>
+                  </l> 
+                  <l>
+                     <hi>Rex facilis, vitam Principis inſpicias.</hi>
+                  </l> 
+                  <pb n="33" facs="tcp:64991:20"/> 
+                  <l>The maſters life did ſurely prove</l> 
+                  <l>A pattern to the ſervants love.</l>
+               </q> And as he inherited
+his fathers pourtraiture,<note place="margin">His fathers imitator.</note> ſo
+likewiſe he owned his perfection, according to that of <hi>Iſocrates,</hi>
+               <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>; the roots of vertue were ſo deeply fixed, that they
+could not be pulled up by any ſtrength, nor by any meanes be removed: of
+ſuch force is educa<g ref="char:EOLhyphen"/>tion, that the ſweet ſavour of Ver<g ref="char:EOLhyphen"/>tue firſt
+received, when the mind is yet tender, open, and eaſily ſea<g ref="char:EOLhyphen"/>ſoned, is
+hardly ever to be extin<g ref="char:EOLhyphen"/>guiſhed.</p>
+            <p>The antient <hi>Romans,</hi> when their voices were demanded at
+the Election of their Emperour, uſed to cry out with one conſent <hi>Quis
+melior quam literatus?</hi> reſt<g ref="char:EOLhyphen"/>ing aſſured that Vertue and Learn<g ref="char:EOLhyphen"/>ing
+were for the moſt part copart<g ref="char:EOLhyphen"/>ners, <pb n="34" facs="tcp:64991:21"/>and inſinuating
+that he that wanted learning could never merit honour.</p>
+            <p>This made <hi>Licinius</hi> that was Collegue in the Empire with
+<hi>Con<g ref="char:EOLhyphen"/>ſtantine</hi> the great, be recorded by all writers with Infamy, for
+that, (being uncapable of learning himſelf, by reaſon of the ſlowneſs
+and barrenneſſe of his underſtand<g ref="char:EOLhyphen"/>ing) was wont to call learning the very
+poyſon, and publick plague that infected Realmes. The <hi>Roman</hi>
+Hiſtorians wholly apply<g ref="char:EOLhyphen"/>ing this vanity of his to want of judgement, and not
+being able to comprehend the benefit of Arts.</p>
+            <p>But our Royal Duke was of the Philoſopher <hi>Ariſtippus</hi>
+his mind, being wont to affirm, that it was better to be a beggar then
+unlearn<g ref="char:EOLhyphen"/>ed, becauſe the beggars penury was but want of money, but he that was
+unlearned was void of hu<g ref="char:EOLhyphen"/>manity: <pb n="35" facs="tcp:64991:21"/>and therefore (ſaith
+one) if a good man,<note place="margin">Joach. Vag. in Anatol. dedic.</note> or a
+learned man would ever wiſh to live long, cer<g ref="char:EOLhyphen"/>tainly it would be for no other
+cauſe, but that they may do ſome<g ref="char:EOLhyphen"/>thing worthy of living. This made
+<hi>Scaliger</hi> cry out, Nothing is better than knowledge, nothing more noble
+than to reach, nothing comes ſo near to true felicity, as to learn. But we
+cannot learn but from others, we cannot teach unleſſe we converſe with
+others, and we can learn little or nothing truly but what we learn from others;
+not by a continual poring on the book, for that (ſaith <hi>Socrates</hi>)
+weakneth the memory, but by diſcourſe, and publick converſing with
+men.</p>
+            <p>This made the Duke of <hi>Glou<g ref="char:EOLhyphen"/>ceſter,</hi> when he had thus
+truly laid the foundation and ground work of his learning in his private
+ſtudy at <hi>Leyden,</hi> to return again to the <pb n="36" facs="tcp:64991:22"/>Court of
+<hi>France,</hi> there to ſtudy men, whereby to become more capable of
+aſſiſting his brother, the moſt incomparable King of Great Britain. He
+had already ſeen the beauty of many cities, known the manners of the people
+of many countries, through whom he had paſſed, and learned the language of
+thoſe Nations with whom he had been converſant, which ſerved him not only
+for delight, but or<g ref="char:EOLhyphen"/>nament: nor reſted he here, for obſerving that the
+greateſt orna<g ref="char:EOLhyphen"/>ment is the beauty of the mind, he made it his endeavour to
+attain that which in moral Philoſophy is called <hi>Cultus animi,</hi>
+conſonant and agreeing with thoſe of his bo<g ref="char:EOLhyphen"/>dy, namely beauty, health and
+ſtrength.</p>
+            <p>The beauty of his mind he ſhew<g ref="char:EOLhyphen"/>in gratefull and acceptable
+formes and ſweetneſſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+of behaviour, which cauſed all men that had to do with <pb n="37" facs="tcp:64991:22"/>him alwayes to go from him highly ſatisfied and contented. 2. The
+health of his mind con<g ref="char:EOLhyphen"/>ſiſted in an immoveable conſtan<g ref="char:EOLhyphen"/>cy and freedome
+from paſſions, which indeed are the ſickneſſe of the mind. 3. The
+ſtrength of his mind he demonſtrated in perform<g ref="char:EOLhyphen"/>ing good and great things,
+the even temper of his mind keeping him from evil and baſe things. Now the
+greateſt part of men have none of theſe: ſome have one and lack the other
+two, ſome few attain to have two of them, but this moſt Illuſtrious
+Prince was the great Maſter of all three; which as it ſhewed a moſt deep
+underſtanding, ſo the meanes whereby be at<g ref="char:EOLhyphen"/>tained thereunto may well
+deſerve a memorial to be recommended to poſterity for great men to
+imi<g ref="char:EOLhyphen"/>tate.</p>
+            <p>The firſt thing he endeavoured was to attain experience of
+formes, <pb n="38" facs="tcp:64991:23"/>which he did, by making his mind <hi>expers
+rerum,</hi> for behaviour is but a garment, and it is eaſie to make a comely
+garment for a body that is well proportioned; whereas a deformed body can never
+be helped by Taylors art, but the counter<g ref="char:EOLhyphen"/>feiting will appear. And in the form
+of the mind it is a true rule that a man may mend his faults with as little
+labour as co<g ref="char:EOLhyphen"/>ver them.</p>
+            <p>The ſecond way he propoſed to himſelf for the aforeſaid
+end, was this, to wit, imitation; and to that end he affected the worthi<g ref="char:EOLhyphen"/>eſt,
+and did not think them moſt worthy whom he moſt af<g ref="char:EOLhyphen"/>fected.</p>
+            <p>To obtain the health of the mind he uſed the ſame meanes which
+we do for the health of our bodies, that is, to make obſervance what
+diſeaſes we are apteſt to fall into, and to provide againſt them, for 
+<pb n="39" facs="tcp:64991:23"/>Phyſick hath not more remedy againſt the diſeaſes
+of the body, than Reaſon hath preſervatives a<g ref="char:EOLhyphen"/>gainſt the paſſions of
+the mind.</p>
+            <p>This made him all the while he did abide in the Court of
+<hi>France,</hi> where he ſaw infinite variety and behaviour of men and
+manners, that he alwayes followed and imi<g ref="char:EOLhyphen"/>tated the beſt, not being caught
+with novelties, nor infected with Cuſtomes, not given to affectati<g ref="char:EOLhyphen"/>on: three
+excellent vertues, that are ſeldome ſeen concurring in a perſon of his
+quality.</p>
+            <p>Nor did he think it enough to have been in the court, unleſſe
+he viſited the camp alſo, which made him go into the Army wherein his
+brother, the moſt Magnanimous Duke of <hi>York</hi> had then a command
+againſt the <hi>Spa<g ref="char:EOLhyphen"/>niard;</hi> with this advantage, as alſo for many other
+ſtrong mo<g ref="char:EOLhyphen"/>tives, he laid aſide the tender<g ref="char:EOLhyphen"/>neſſe <pb n="40" facs="tcp:64991:24"/>of
+his birth and breeding, and conformed his naturall cou<g ref="char:EOLhyphen"/>rage to be fit to true
+fortitude, thinking it better at the firſt to do a great deal too much, than
+any thing too little; for he knew it to be an obſervation in<g ref="char:EOLhyphen"/>fallibly true,
+that a young man, eſpecially a ſtrangers firſt actions, are looked upon,
+and Reputation once gotten is eaſily kept, but an ev<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>l impreſſion conceived at the firſt is not
+eaſily removed; ſo that in ſhort time his name and actions grew both
+famous and honoured.</p>
+            <p>But now, as if fortune had not already done her worſt to theſe
+Royall Branches of <hi>Great Britains</hi> Monarthy, by a forcible expulſion
+of them from their Native Country by their unna<g ref="char:EOLhyphen"/>tural Subjects, and ſetting
+up an uſurping. Impoſtor in the Kingly ſeat, ſhe throwes one 
+<pb n="41" facs="tcp:64991:24"/>ſtone more, as hoping abroad to accompliſh that villany
+which by any meanes at home they were out of hopes ever to bring to paſſe;
+for about <hi>November</hi> 1655. that devilliſh Rebell <hi>Cromwell</hi>
+having engroſſed into his own hands the reines of go<g ref="char:EOLhyphen"/>vernment, and brought
+the <hi>Eng<g ref="char:EOLhyphen"/>liſh</hi> Nation to a ſlaviſh ſubmiſ<g ref="char:EOLhyphen"/>ſion to his
+Tyrant<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cal power, not onely
+within his own limits did what he liſted, but quarrelled downright with
+forein Princes, eſpecially the King of <hi>Spain,</hi> upon whom he had made
+a vi<g ref="char:EOLhyphen"/>olent breach in the <hi>Indies,</hi> by the aſſayling of
+<hi>Hiſpaniola,</hi> and ſurprizing and taking of the Iſland of
+<hi>Jamaica.</hi> And now finding the King of <hi>Spain</hi> inraged at the
+attempt, he attaches him likewiſe nearer home, that is to ſay in
+<hi>Flanders.</hi>
+            </p>
+            <p>To which purpoſe, by the aſ<g ref="char:EOLhyphen"/>ſiſtance <pb n="42" facs="tcp:64991:25"/>of the Cardinall of <hi>France, Mazarine,</hi> and the help of mo<g ref="char:EOLhyphen"/>ney,
+in hopes to weaken the <hi>Spaniard,</hi> by ſtrengthening the
+<hi>French,</hi> he enters into a Treaty with them, and on a ſudden,
+concludes a league offenſive and defenſive; on the twenty eighth of
+<hi>November</hi> aforeſaid, 1655. a peace was ſolemnly proclaimed with
+<hi>France.</hi>
+            </p>
+            <p>At the time of theſe tranſ<g ref="char:EOLhyphen"/>actions was the Duke of
+<hi>Glou<g ref="char:EOLhyphen"/>ceſter</hi> in <hi>France,</hi> accompanying his brother of
+<hi>York</hi> in the warres there, yet both ſtill having an eye to the King
+of <hi>Englands</hi> af<g ref="char:EOLhyphen"/>faires, when upon the concluſion and proclaming of
+the peace aforeſaid, it was ſuddenly pro<g ref="char:EOLhyphen"/>pounded, (although before it was
+agreed) that they ſhould all be gone from thence in a certain time; how great
+an affront and indignity this was to ſuch perſons <pb n="43" facs="tcp:64991:25"/>who
+had ſo highly and eminent<g ref="char:EOLhyphen"/>ly deſerved at the hands of that people, I leave
+to all diſcerning ſpirits to judge. The King there<g ref="char:EOLhyphen"/>fore upon good advice,
+having conſidered the nature of that raſh and inconſtant Nation, and
+minding how once they were like to have ſerved <hi>Henry</hi> the ſeventh,
+by delivering him into the hands of <hi>Richard</hi> the third his
+meſſen<g ref="char:EOLhyphen"/>gers, was not minded either to run the hazard of his own ſa<g ref="char:EOLhyphen"/>cred
+Perſon, or of either of his brothers, the Dukes of <hi>York</hi> and
+<hi>Glouceſter,</hi> but by a timely re<g ref="char:EOLhyphen"/>tirement to make an abſolute
+prevention, and ſo not only to take away their power, but their hopes of
+doing him any inconve<g ref="char:EOLhyphen"/>nience. Hereupon they remove, not over haſtily, as in
+fear, but as befitted their Grandeur, ſcor<g ref="char:EOLhyphen"/>ning to be driven, they
+lei<g ref="char:EOLhyphen"/>ſurely go into <hi>Germany,</hi> and for <pb n="44" facs="tcp:64991:26"/>ſome time
+abode at <hi>Colen.</hi>
+            </p>
+            <p>Here the Duke of <hi>Glouceſter</hi> again retired himſelf to
+a more melancholy life, by his preſent reading, fitting himſelf for fu<g ref="char:EOLhyphen"/>ture
+employment. To this end he was much converſant in Hi<g ref="char:EOLhyphen"/>ſtories, thereby
+ſetling his judge<g ref="char:EOLhyphen"/>ment in matters morall, politick and military, ſo
+improving that which they intended as a diſho<g ref="char:EOLhyphen"/>nourable baniſhment, that it
+pro<g ref="char:EOLhyphen"/>ved an advantagious retirement. Adverſity bendeth, but never breaketh a
+noble and undaunted courage, he abandons not him<g ref="char:EOLhyphen"/>ſelf, though all the world
+forſake him, but hopes that when For<g ref="char:EOLhyphen"/>tune is come to the Brumal Sol<g ref="char:EOLhyphen"/>ſtice
+of her frowning, ſhe will be Retrograde, and ſhine again with the beames of
+better ſucceſſe: this made him therefore, though plunged to the loweſt
+deep of diſaſters, not to ſink into the ne<g ref="char:EOLhyphen"/>thermoſt <pb n="45" facs="tcp:64991:26"/>hell of deſpair, whence is no redemption, but reſerve him<g ref="char:EOLhyphen"/>ſelf
+to better fortune, according to that of the Greek Hiſtorian and
+Philoſopher, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Decet utrum vere generoſum ferre tum
+bona tum mala ſi lapſus fuerit.</hi>
+            </p>
+            <p>During this time of abode at <hi>Colen,</hi> came thither the
+newes of an irreconcileable breach between <hi>England</hi> and <hi>Spain,</hi>
+as a certainty whereof, they heard that the <hi>Spa<g ref="char:EOLhyphen"/>niard</hi> at
+<hi>Dunkirk</hi> had proclaimed open warre againſt the <hi>Engliſh:</hi>
+this was taken as a fit and hope<g ref="char:EOLhyphen"/>full opportunity by our exiled Princes, who
+not long after were very ceremoniouſly invited into <hi>Flanders,</hi> where
+being come, and having received the firſt entertain<g ref="char:EOLhyphen"/>ment, as of ſtrangers,
+the next ſeemed to carry with it a friend<g ref="char:EOLhyphen"/>ſhip, which ſo encouraged our 
+<pb n="46" facs="tcp:64991:27"/>two young Nobles of <hi>York</hi> and
+<hi>Glouceſter,</hi> that intending a revenge upon <hi>France</hi> for her
+unhandſome ſending them away, with ſome new raiſed forces which they
+had gotten together, they went into the <hi>Spaniſh</hi> Camp, and joyned
+themſelves to the Prince of <hi>Conde,</hi> who was a Proteſtant Prince, of
+the blood Royall of <hi>France,</hi> but now upon diſcontent in armes
+againſt the <hi>French</hi> King. To him I ſay they joyned, as aſſu<g ref="char:EOLhyphen"/>red
+to do more then if they were all <hi>Spaniſh,</hi> in regard the ſecrets of
+the whole Kingdome were well known to him; and not onely <hi>Conde,</hi> but
+our <hi>Engliſh</hi> Princes by their long reſidence there, had obſerved
+both his friends and confederecies, and upon what re<g ref="char:EOLhyphen"/>ſpects they leagued with
+him; they knew his power and ſtrength, both in regard of his Countrey and his
+forces, being well acquain<g ref="char:EOLhyphen"/>ted <pb n="47" facs="tcp:64991:27"/>(as having been trained up
+in Martial diſcipline) with many of his chief Commanders; and in cruth they
+nothing failed of their expectation, although the <hi>French</hi> by the
+conjoyned forces of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> did things beyond their ac<g ref="char:EOLhyphen"/>cuſtomed
+manner, beſieging and taking <hi>Mardike, Dunkirk,</hi> and other forts from
+the <hi>Spaniard,</hi> al<g ref="char:EOLhyphen"/>though the <hi>Spaniſh</hi> forces did as much as
+could be expected from men, and the <hi>Engliſh</hi> in the quarter where the
+Dukes of <hi>York</hi> and <hi>Glouceſter</hi> lay, acted wonders even
+againſt their own Country<g ref="char:EOLhyphen"/>men; neither would our Princes leave the
+<hi>Spaniard</hi> for the firſt loſſe, but continued helping them with an
+undaunted courage, even till the happy reſtauration of the King of
+<hi>England</hi> to his throne and Kingdomes.</p>
+            <p>In this military poſture they made many intodes into the
+ene<g ref="char:EOLhyphen"/>mies <pb n="48" facs="tcp:64991:28"/>countrey, and that with ſuch ſucceſſe, as
+made their valour ap<g ref="char:EOLhyphen"/>plauded, and their judgement ad<g ref="char:EOLhyphen"/>mired.</p>
+            <p>We left the Princeſſe of <hi>Orange</hi> newly out of chil<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>bed, and mother of a Poſthumus
+ſon, the tender<g ref="char:EOLhyphen"/>neſſe of whoſe yeares had hitherto kept him, as to the
+generality of the world, unknown, but now his yeares having made him ſeem
+ca<g ref="char:EOLhyphen"/>pable of a more diſcerning judge<g ref="char:EOLhyphen"/>ment, the States of the Country begin to
+complement him, and by a ſerious endeavour ſtrive to train him up in the
+military art, that thereby he might in the future be able to do as his
+forefathers, and not only imitate their vertues, but their valour: and to this
+end there was a company of young Noble men and Gentlemen raiſed, of whom the
+Prince was to the Com<g ref="char:EOLhyphen"/>mander in chief, the Lord <hi>Brehe<g ref="char:EOLhyphen"/>rode</hi> Lieutenant,
+and the young <pb n="49" facs="tcp:64991:28"/>Lord <hi>Waſſenaer</hi> Enſign. A good
+rule ſure, ſo by cuſtome and uſe in youth, to enure to practiſe, that
+their moſt perfect age ſhall not ſcruple at the toyle, but rather count
+all difficult things pleaſurable, as knowing that <hi>Ardua virtutis eſt
+via.</hi> But it is often ſeen that men are weary of well doing, and ſo
+were theſe <hi>Hollanders,</hi> quitting their widow Princeſſe and her
+Son, and cloſing with <hi>Engliſh</hi> factions againſt the King, which
+being ſeen by Prince <hi>William</hi> Governour of <hi>Frieſland,</hi> he,
+together with the whole Country, declared their diſſent againſt any
+ſuch agreement, and ſtand highly on their punctilios for their young
+Princes, and his mothers honour and right.</p>
+            <p>This gallantry and nobleneſſe of the <hi>Frieſlander,</hi>
+was highly commended by many forein Prin<g ref="char:EOLhyphen"/>ces, eſpecially the
+<hi>Brandenburgher,</hi> 
+               <pb n="50" facs="tcp:64991:29"/>whoſe Electoral Princeſſe
+with all her trayne, came to give a viſit to the Princeſſe of
+<hi>Orange;</hi> whither alſo came the Dukes of <hi>York</hi> and
+<hi>Glouceſter,</hi> for whom there was a ſtately, and Prince<g ref="char:EOLhyphen"/>like
+preparation made for their entertainment; which the whole States taking notice
+of, their ſto<g ref="char:EOLhyphen"/>machs alſo came down, and by their meanes the City of
+<hi>Amſter<g ref="char:EOLhyphen"/>dam</hi> invited the Princeſſe of <hi>Orange</hi> to a
+magnificent feaſt in remembrance of the great ſer<g ref="char:EOLhyphen"/>vices performed by the
+houſe of <hi>Orange</hi> for them.</p>
+            <p>The Dukes in this interim were retired into <hi>Flanders,</hi> to
+their forces in the <hi>Spaniſh</hi> army, wherein the Duke of <hi>York</hi>
+ſtill continued an eminent actor, but the Duke of <hi>Glouceſter</hi>
+having as he ſuppoſed, ſeen ſufficient of the warres, and hoping that
+God at length would reſtore his <pb n="51" facs="tcp:64991:29"/>brother the King, he
+intended to apply himſelf to ſuch a form of life, as that he might by his
+Counſell be able to help him, knowing that moſt great men,<note place="margin">Tacit. An<g ref="char:EOLhyphen"/>nal.</note> 
+               <hi>plu<g ref="char:EOLhyphen"/>ra Conſilio quam
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vi perfecerent,</hi> have
+ever done as much by Coun<g ref="char:EOLhyphen"/>ſell as by force.<note place="margin">1 Com. C<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vill. Bel<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:punc">▪</g>
+               </note> This made <hi>Cae<g ref="char:EOLhyphen"/>ſar</hi> ſay,
+<hi>Non minus eſt Imperatoris conſilio ſuperare quam gladio,</hi> A
+Princes conqueſts are gained as much by Councell as by the ſword.</p>
+            <p>We may juſtly ſay, that this young Duke did truly prove ſuch
+a one as <hi>Baſilius</hi> the Empe<g ref="char:EOLhyphen"/>rour recommended to his ſon,
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>, that is, Uſe ſuch Counſel<g ref="char:EOLhyphen"/>lers who have
+counſelled well in <pb n="52" facs="tcp:64991:30"/>their own affaires, and managed the
+ſame well, not ſuch whoſe im<g ref="char:EOLhyphen"/>prudence hath made all things go to
+confuſion, for they who through too much careleſneſſe neglect
+themſelves and their own buſi<g ref="char:EOLhyphen"/>neſſe, will never be a good help or
+adviſer to another: this I ſay, was ſo in him, for never was any man more
+atrent to what he under<g ref="char:EOLhyphen"/>took, nor more carefull either in his own, or the
+affaires of others, by which meanes he hoped to ſhut out all foreiners from
+coun<g ref="char:EOLhyphen"/>ſell, leſt they ſhould attract envy to his Prince, becauſe
+<hi>Conſilia ex<g ref="char:EOLhyphen"/>terna ſunt ſemper infauſta.</hi>
+            </p>
+            <p>That maxime in him was truly verified, <hi>Miſeria Pruden<g ref="char:EOLhyphen"/>tiae
+bowa Mater,</hi> for certainly his afflictions did infinitely refine him, He
+might ſay with <hi>David, It is good for me that I have been
+afflicted,</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſal. 119.</note> 
+               <hi>for thereby I have learned not only they Law,
+but <pb n="67" facs="tcp:64991:30"/>have gained an inſight into worldly Wiſdome,</hi>
+nor are Councellors onely bettered by troubles but even Prin<g ref="char:EOLhyphen"/>ces themſelves
+are made excellent, whom a various fortune hath ſome<g ref="char:EOLhyphen"/>times exerciſed,
+<hi>Charles</hi> the fifth of <hi>France</hi> was endued with an admi<g ref="char:EOLhyphen"/>rable
+Wiſdome, and gained the ſir<g ref="char:EOLhyphen"/>name of Wiſe, but few men were ever ſo
+variouſly toſſed up and down even from his very child<g ref="char:EOLhyphen"/>hood; his Father
+King <hi>Iohn</hi> being lead away Priſoner, and the King<g ref="char:EOLhyphen"/>dome harraſſed
+over by another Nation, So <hi>Lewis</hi> the eleventh, a wiſe Prince, yet
+for divers years dri<g ref="char:EOLhyphen"/>ven both from his Father, Friends, and Countrey, and
+forced to live as an exile with <hi>Philip</hi> Duke of <hi>Bur<g ref="char:EOLhyphen"/>gundy,</hi>
+many others we might joyn in the ſame rank; but what need we go from home,
+ſince we have among us the moſt religiouſly wiſe King in the World,
+whoſe tryals have ex<g ref="char:EOLhyphen"/>ceeded all before going. Moſt true therefore is that
+ſaying of the <pb n="50" facs="tcp:64991:31"/>Greeks— <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>a
+quibus laeſus ab jis doctus</hi>—In this condi<g ref="char:EOLhyphen"/>tion we will leave him
+at his ſerious ſtudies, to ſee how the Princeſs of <hi>Orange</hi> his
+Siſter ſpeeds with her pleaſed friends of <hi>Holland:</hi> the Sta<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>es having upon their ſecond and
+bet<g ref="char:EOLhyphen"/>ter thoughts reconciled themſelves to the Prince &amp; his Mother, as a
+teſti<g ref="char:EOLhyphen"/>mony thereof gave them a magnifi<g ref="char:EOLhyphen"/>cent entertainment being welcomed by
+the chief of the Town accompa<g ref="char:EOLhyphen"/>nied with many horſes richly ac<g ref="char:EOLhyphen"/>coutred, and
+many Coaches, the Burgomaſters at their reception gi<g ref="char:EOLhyphen"/>ging high thanks to the
+Princeſs fo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> dignifying
+them with her preſence<g ref="char:punc">▪</g> As a recreation after the Feaſt, wa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> preſented in various ſhews,
+the me<g ref="char:EOLhyphen"/>morable Acts of the five laſt Prin<g ref="char:EOLhyphen"/>ces of <hi>Orange,</hi> the
+Emperour <hi>Adolp<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of
+<hi>Naſſaw</hi> and others of that fami<g ref="char:EOLhyphen"/>ly, &amp; in the ſhew was placed
+a repre<g ref="char:EOLhyphen"/>ſentation of the preſent young Princ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in the Arms of Religion; nothin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> was wanting that might grace
+ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <pb n="51" facs="tcp:64991:31"/>ſolemne an accaſion, but onely the Prince of <hi>Orange</hi>
+himſelf, the Peo<g ref="char:EOLhyphen"/>ple longing with an unſatisfied ex<g ref="char:EOLhyphen"/>pectation to ſee his
+perſon, for now as he grew up apace, ſo he began to draw the eyes and
+obſervation of moſt men in thoſe parts towards him, as the perſon
+ordained to re<g ref="char:EOLhyphen"/>duce things to the antient luſtre as they were wont to be in
+the dayes of the Princes of <hi>Orange</hi> his predeceſ<g ref="char:EOLhyphen"/>ſours. Which
+others of a more facti<g ref="char:EOLhyphen"/>ous and wicked nature murmured at, rather deſiring
+that he might be layd aſide. This made his Mother to looke about her and with
+care to keep correſpondencies eſpecially with thoſe Provinces that
+refuſed a confaederacy with the Engliſh, like a good Prince minding
+<hi>Patriae benefi<g ref="char:EOLhyphen"/>cium</hi> the advantage of the Country more then her own
+private ends: and that the world might take no<g ref="char:EOLhyphen"/>tice thereof, ſhe bore her Son
+com<g ref="char:EOLhyphen"/>pany to <hi>Leyden</hi> when he went thi<g ref="char:EOLhyphen"/>ther to be inſtructed in the
+Langu<g ref="char:EOLhyphen"/>ages <pb n="66" facs="tcp:64991:32"/>and Sciences, and were by the Magiſtraces of
+that City honourably received.</p>
+            <p>The Princeſs Royal being returned to the <hi>Hague</hi> and
+intending to go thence to <hi>Bredah,</hi> her Son the Prince came thither for
+a few dayes from <hi>Leyden</hi> to take his leave of her, and as ſoon as
+ſhe was gon he returned back again to his ſtudyes.</p>
+            <p>The Duke of <hi>Gloceſter</hi> all this while remained private,
+only ſome<g ref="char:EOLhyphen"/>times viſiting in publick his Illuſtri<g ref="char:EOLhyphen"/>ous brothers, being
+grown famous by his retirement; and his Councils looked on as Oracles, his
+knowledge being weighed not by the length of his life, but the obſervations
+he made upon all occurrents, proving thereby that he that liveth long and
+ſeeth much but obſerveth nothing, ſhall never prove any wiſe man.</p>
+            <p>There was not any the meaneſt action whereof he took not notice,
+weighing the coherence of cauſes, effects counſels and ſucceſſes,
+with <pb n="71" facs="tcp:64991:32"/>the proportion and likewiſe between nature and
+nature, fortune and for<g ref="char:EOLhyphen"/>tune, action and action, ſtate and ſtate, time
+paſt, and time preſent, thereby being able to render an ac<g ref="char:EOLhyphen"/>count both of
+the manners and cuſtomes both of the places and people wherein he had
+reſided.</p>
+            <p>The Princeſs of <hi>Orange</hi> was now at <hi>Bredah,</hi>
+where ſhe was carreſſed and courted by many forraign Prin<g ref="char:EOLhyphen"/>ces and States,
+onely the King of <hi>France,</hi> by what or whoſe inſtigati<g ref="char:EOLhyphen"/>on is not
+certainly known, began to play foul, for while the old Princeſs
+<hi>Dowager</hi> of <hi>Orange</hi> and ſhe, were with ſome heat
+conteſting about the Guardianſhip of the Principa<g ref="char:EOLhyphen"/>lity of <hi>Orange,</hi>
+the French King ſur<g ref="char:EOLhyphen"/>priſes the ſame, takes into his own
+poſſeſſion the Ammunition and Arms with all other ſtrengths there<g ref="char:EOLhyphen"/>of,
+and gives out that he will keep them all for the young Princes uſe during his
+minority, and as a faith<g ref="char:EOLhyphen"/>ful Steward deliver them all up <pb n="54" facs="tcp:64991:33"/>again when he comes to full age. A fair pretence, but much to be
+feared that it will with great difficulty be performed, it being too generally
+found true that Great men many times do wrong, becauſe they have a power in
+their hands, and ſo long as that power laſts they will and do maintain the
+ſame by doing greater. But although the Princeſs and all her friends did
+much both doubt and fear ſuch an event from ſo un<g ref="char:EOLhyphen"/>handſome a beginning,
+yet they for the preſent ſmothered the ſame within their Breaſts,
+doubting leaſt by ſhewing their fear, they ſhould cauſe a diſtruſt,
+for as <hi>Seneca</hi> ſaith <hi>Qui timet a nicum amicum ut timeat
+do<g ref="char:EOLhyphen"/>cet.</hi>
+               <note place="margin">
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>en. Sent.</note> Whereas noble and generous ſpirits ſtrive as
+much not to be over<g ref="char:EOLhyphen"/>come in curteſy, as the valiant and couragious not to be
+overthrown in Battail. Hence it is that nothing more obligeth the promiſer to
+an unfeigned and free performance, then the free and confident aſſu<g ref="char:EOLhyphen"/>rance, 
+<pb n="55" facs="tcp:64991:33"/>which the promitter profeſ<g ref="char:EOLhyphen"/>ſeth to have in the word and
+offer made him, whereas on the contra<g ref="char:EOLhyphen"/>ry many have taught others to de<g ref="char:EOLhyphen"/>ceive,
+while they have appeared too feareful and jealous of being de<g ref="char:EOLhyphen"/>ceived.</p>
+            <p>The face of affaires both in <hi>Eng<g ref="char:EOLhyphen"/>land</hi> and other parts
+began now to be altered, and that Royal family which had ſuffered ſo long
+and tedi<g ref="char:EOLhyphen"/>ous an Ecclipſe began again to be worſhipped as <hi>Sol
+oriens</hi> as the ri<g ref="char:EOLhyphen"/>ſing Sun in our Hemiſphears, in ſo much that on
+every ſide it is cour<g ref="char:EOLhyphen"/>ted and careſſed, making good that ſaying of the
+poet. 
+<q>
+                  <l>All things concurr with more then happy chance</l> 
+                  <l>To rayſe the man whome fortune will advance</l>
+               </q> and ſo
+indeed they did, for the Rebells of <hi>England</hi> being beaten at their own
+weapon, the imme<g ref="char:EOLhyphen"/>diate finger of God appeared and infuſed a new ſpirit of
+Loyalty into <pb n="07" facs="tcp:64991:34"/>the hearts of the people which occa<g ref="char:EOLhyphen"/>ſioned
+his Majeſty accompanied with his brothers the Duke of <hi>Yorke</hi> and
+<hi>Gloceſter,</hi> to come from <hi>Bruſ<g ref="char:EOLhyphen"/>ſells</hi> in the King of
+<hi>Spaines</hi> Country and under his command to <hi>Bredah</hi> under tuition
+of his beloved Siſter the Princeſs of <hi>Orange</hi> where they were
+recived with that ſplendor as became ſuch perſons on all hands; ſhe
+with joy to ſee the Sacred Ma<g ref="char:EOLhyphen"/>jeſty of great <hi>Brittain</hi> in ſuch
+hopes of reſtauration, and they with gra<g ref="char:EOLhyphen"/>titude to heaven for ſo great and
+happy a change.</p>
+            <p>Here they continued until the Engliſh Parliament ſent
+Commiſ<g ref="char:EOLhyphen"/>ſioners to invite the King and his brothers home into
+<hi>England,</hi> and as a particular teſtimony of their true obedience and
+Loyalty, they ſent to each of them ſeveral great pre<g ref="char:EOLhyphen"/>ſents, and
+particularly to the Duke of <hi>Gloceſter</hi> the ſume of Ten thou<g ref="char:EOLhyphen"/>ſands
+pounds which was acceptably received and ſhortly after the ſaid 
+<pb n="75" facs="tcp:64991:34"/>Duke wayting on the King imbarked in the good ſhip called
+the <hi>Nazby,</hi> but at that time new Chriſtened and named the
+<hi>Charles,</hi> in which by the good hands of God aſſiſting, he
+arri<g ref="char:EOLhyphen"/>ved in <hi>England</hi> and Landed at <hi>Do<g ref="char:EOLhyphen"/>ver</hi> on the five and
+twenty day of <hi>May</hi> and from thence went to <hi>Can<g ref="char:EOLhyphen"/>terbury.</hi> On the
+twenty eight he riding on the left hand of the King came to
+<hi>Rocheſter</hi> and on the twenty ninth with a ſtately and magnifi<g ref="char:EOLhyphen"/>cent
+paſſage through the famous &amp; antient City of <hi>London</hi> the
+Metro<g ref="char:EOLhyphen"/>polis of the Kingdom, did arrive at <hi>Whitehall</hi> in the evening,
+which Crowned the ſolemnity of the day with incredible demonſtrations.
+After a day or two reſpite and reſt
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he Dukes of <hi>York</hi>
+and <hi>Gloceſter</hi> went
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o the houſe of Peeres and
+their took <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>heir places,
+adding by their pre<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ence two
+ſtars of the firſt magni<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ude to that ſpheare, which had of
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate been wholly overclouded
+or at <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eſt taken up by
+comets &amp; meteors.</p>
+            <pb n="58" facs="tcp:64991:35"/>
+            <p>The King had not been above a fortnight in <hi>London</hi> but
+that he no<g ref="char:EOLhyphen"/>minated a privy Councel, whereof the Duke of <hi>Gloceſter</hi>
+was one of the cheif, the King having known by experience that <hi>Pa<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>vi ſunt foris arma niſi ſit
+conſilium domi,</hi> &amp; therefore up<g ref="char:EOLhyphen"/>on his former obſerva<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion of
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>is rich endowments of mind,
+and ſtrength of judgement, which with happy ſucceſs he had often made
+uſe of, he made that choyce, being well cau<g ref="char:EOLhyphen"/>tioned of the neceſſity of
+ſuch coun<g ref="char:EOLhyphen"/>ſellours. <hi>Saluſtius</hi> in his diſcourſe to
+<hi>Caeſar</hi> ſaith, <hi>ego comperi omnia regna avitates, nationes
+uſque eo proſperum im<g ref="char:EOLhyphen"/>perium habuiſſe, dum vera conſili<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> valuerunt; ubi gratia, timor,
+voluptas e<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> corrupêre,
+poſt paulo imminutae opes<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+deinde ademptum imperium, poſtremo ſer<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> vitus impoſita eſt,</hi> I have found
+(ſait<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he) all Kingdomes
+Cities &amp; Nation<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſo
+long to have proſpered as the<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> made uſe of ſound and wiſe Counſels<g ref="char:punc">▪</g> but where favour
+fear or partialit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> have
+prevayled, they have ſoon de<g ref="char:EOLhyphen"/>cayed <pb n="56" facs="tcp:64991:35"/>and at laſt been
+made tribu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>aryes to their
+Enemies <hi>Ariſtotle</hi> writing to <hi>Alexander</hi> uſeth theſe
+words <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.<note place="margin">Ariſt. Rher. ad Alex.</note>
+               <hi>Conſiliari eorum quae inter
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>omines, diviniſſinum
+eſt,</hi> that to give good counſel is a thing more then
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>umane. And in another place
+<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>. <hi>Quiddam ſacrum
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſt conſultatio.</hi>
+Good counſel hath <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>omething
+of god in it.</p>
+            <p>Heaven having thus propitiouſly
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>etled the affaires of
+Government in <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> good meaſure,
+leſt ſo great exceſs <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hould breed ſupineſſe or neglect, gives affliction, to
+moderate turgen<g ref="char:EOLhyphen"/>cies, by caſting that moſt excellent Prince and
+Counſeller the Duke of <hi>Gloceſter</hi> on his ſick bed; the
+diſeaſe under which he laboured was com<g ref="char:EOLhyphen"/>mon to this Engliſh Nation, and
+very <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eldom if ever mortal;
+curble for the moſt part by the attendant care of ſome knowing Nurſe, but
+be<g ref="char:EOLhyphen"/>come mortal to the Duke by the over-nice and too ſevere rules of the 
+<pb n="74" facs="tcp:64991:36"/>Learned Phyſitian, who contra<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to the nature of the
+diſeaſe di<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ſeveral
+times let him blood; fo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+howſoever <hi>Rulandus Botallus,</hi> an<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> divers other good Phiſitians, com<g ref="char:EOLhyphen"/>mand
+<hi>Phlebotomy</hi> as an excellen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> means to cure many deſperate di<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>eaſe, yet in this our Northern Iſle, or
+bodies being for the moſt part mo<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Phlegmatick and groſs then theirs t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Southward are by
+conſequenc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the better
+holpen, by dejectory diureticke and diaphereticall mean then by any effuſion
+of blood, but ſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> prevalent
+was the Phyſitians cred<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+that their art was ſubmited unto i<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> all things. The Duke as I ſaid twi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or thrice let blood and by tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> meanes unfortunately in the
+prim<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of his years and
+beginning of hi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſtrength,
+on the thirteenth day o<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+September 1660. was brought to his death, a day for ever to be noted fatal and
+in the Calender to be <hi>nig<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Carbone notatus</hi> that all the world may know it be unlucky.</p>
+            <pb n="79" facs="tcp:64991:36"/>
+            <p>We may juſtly lament his loſs as <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>icero</hi> did the death of
+<hi>Sulpitius,</hi>
+               <note place="margin">Tul. Piſt lib. 11. ep 9. &amp; 6.12.
+ep. 5.</note> 
+               <hi>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ervji
+Sulpitii morte magnum praeſi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ium amiſimus, amiſſo enim eo tan<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>um detrimenti reſpublica acceperit ut
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>unc autoritate &amp;
+prudentia proſpicere <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ortet
+ne inimici noſtri conſule ſublato
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>erent ſe convaleſcere
+poſſe.</hi> By this <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eath
+of the Duke, we loſt one great
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iller of the Commonwealth,
+which <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hereby hath ſuffered
+ſo great da<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>age that it
+will aske our whole <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſedome and authority to keep our
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nemies in a ſure
+ſubjection.</p>
+            <p>While this ſad face of affaires
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>egan to appear and cloud the
+En<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſh; The Princeſs
+Royal deſirous <gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> give a
+viſit to her brother in his
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>n Kingdome, to congratulate
+with <gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>m in the happineſs
+of his miracu<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s
+reſtoration, acquainted the States
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the Low Countryes with ſuch
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er intents, who being highly
+ſa<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>fied therewith, ſhe
+further then <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mmended to
+their care &amp; love, her <gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ung Son the preſent Prince of <hi>O<g ref="char:EOLhyphen"/>range</hi> 
+               <pb n="63" facs="tcp:64991:37"/>during the time of her abſen<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> in <hi>England,</hi> which ſhe ſaid would be for ſome time:
+the States gla<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> to be ſo
+highly entruſted, and wi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+ſuch a treaſure, promiſed the utmo<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of their care and endeavour in th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ſaid young Princes behalfe,
+who<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they then owned as their
+Prince a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> promiſed to him
+all fidelity: a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> as a
+teſtimony of their preſent affec<g ref="char:EOLhyphen"/>tion to her their Princes mothe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> they beſtowed on her ſeveral
+gre<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> and Princely gifts,
+together wi<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> an honourable
+ſplendid entertain<g ref="char:EOLhyphen"/>ment, waiting upon her alſo to t<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Sea ſide, where in a ſolemne a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> reſpectful manner they took
+the farwel of her while ſhe imbark<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> on ſhipboard, and with a proſpero<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> gale of wind arrived at the Engli<gap reason="illegible" resp="#OXF" extent="2 letters">
+                  <desc>••</desc>
+               </gap> ſhore, where being landed on
+t<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> three and twentith day of
+Septem<g ref="char:EOLhyphen"/>ber ſhe was met and received by th<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> King of great <hi>Brittain</hi> and the Duke of
+<hi>Yorke,</hi> and with a Royal traine a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> tended to the Court at <hi>Whiteh<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> 
+               <pb n="62" facs="tcp:64991:37"/>where
+afterwards ſhe remained, be<g ref="char:EOLhyphen"/>ing entertained with Royal feaſtings and
+pleaſures according to the laud<g ref="char:EOLhyphen"/>able cuſtom of antient dayes, and contrary
+to the P<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anatick humour of
+theſe times. Where we may ſee ſome that do avoid pleaſure out of a
+pretence of danger, and dare not but abandon lawful delights for fear
+(forſooth) of ſin, theſe ſeeme like jgnorant metalliſts which caſt
+a<g ref="char:EOLhyphen"/>way the pretious Ore becauſe they cannot ſeparate the gold from the
+droſs; or ſome ſimple Jew that con<g ref="char:EOLhyphen"/>demes the pure ſtreames of
+<hi>Iordan</hi> becauſe they fall into the dead Sea; why do not theſe men
+refuſe to eat becauſe meat hath made many gluttons; how dare they cover
+them<g ref="char:EOLhyphen"/>ſelves with clothes that know there is pride in raggs? Theſe hard
+tutors if not tyrants to themſelves while they pretend a mortified
+ſtrictneſs are injurious not only to their own li<g ref="char:EOLhyphen"/>berty, but to the liberty
+of their ma<g ref="char:EOLhyphen"/>ker: wherefore hath he given the <pb n="78" facs="tcp:64991:38"/>Commodityes of
+the earth if not for uſe? or why placed he man in Paradice not in a deſert?
+How can we more diſpleaſe a liberall friend then to depart from his
+delicate feaſt wilfully hungry: they are deceived that call this holineſs:
+It is the diſ<g ref="char:EOLhyphen"/>eaſe of a minde ſullen, diſtruſtful and impotent. There
+is nothing but evill which is not from heaven, and he is none of Gods freind
+that re<g ref="char:EOLhyphen"/>jects his gifts for his own abuſe: if God have mixed us a ſweet
+cup, let us drink it cheerfully commend the taſt and be thankful, rejoycing
+in it as his. In this manner and no other were the <hi>feſtivous
+celebrations</hi> given to this Illuſtrious Princeſs; the ſame ſtill
+continuing until the Queen Mother was coming out of <hi>France,</hi> as to
+receive the benefit of the long de<g ref="char:EOLhyphen"/>teined Dowry ſo to give a viſit to her
+ſon now ſettled for whoſe hoped re<g ref="char:EOLhyphen"/>ſtauration, ſhe had ſent ſo
+many day<g ref="char:EOLhyphen"/>ly Oraſons to heaven: whereof the King having notice on the twenty 
+<pb n="65" facs="tcp:64991:38"/>ſeventh of <hi>October</hi> went to meet
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her at her landing at
+<hi>Dover,</hi> and from thence with a Princely equipage and royal attendance
+conducted her to <hi>whitehall</hi> after ninetten yeares ab<g ref="char:EOLhyphen"/>ſence thence,
+with whome came the Illuſtrious Princeſs <hi>Heniretta,</hi> (her daughter)
+and Prince <hi>Edward</hi> brother to the Prince <hi>Elector Palatine;</hi> on
+the ſecond day of <hi>November</hi> 1660.</p>
+            <p>Long had not this contexture of happineſs laſted before a
+ſad &amp; ſul<g ref="char:EOLhyphen"/>len cloud began to caſt a dimnes over all theſe joyes by
+the ſudain falling ſick of the Princeſs Royal of <hi>Orange,</hi> into a
+like diſtemper with that which had ſo immaturely robbed us of her
+incomparable brother the Duke of <hi>Gloceſter;</hi> whereof ſhe had not
+lain ſick many dayes but by the ſame hand uſing the ſame meanes of
+blood-letting ſhe was tranſ<g ref="char:EOLhyphen"/>lated into another world, exchang<g ref="char:EOLhyphen"/>ing this life
+for a more certain, and the tranſitory pleaſures of earth for 
+<pb n="66" facs="tcp:64991:39"/>the never fading joyes of a more glorious Kingdome.</p>
+            <p>Her death was a new cauſe of ſor<g ref="char:EOLhyphen"/>row to all faithful and Loyal
+hear<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s which made them
+expreſs their vari<g ref="char:EOLhyphen"/>ous ſadneſs in ſeveral ſorts according to the
+magnitude and exceſs of their greif, among whom give me leave (ſince the
+poore widowes mit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap> bringing
+what ſhe could and all tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+ſhe had was acceptable) to add on teare to the general deluge of ſorrow
+which covers the face of our Eng<g ref="char:EOLhyphen"/>liſh world in this enſuing Elegy</p>
+            <div n="Mary princess of Orange" type="elegy">
+               <pb n="97" facs="tcp:64991:39"/>
+               <head>An Elegy on the ever to be lamented death of the moſt
+Illuſtrious Princeſs <hi>Mary</hi> Princeſs of <hi>Orange</hi> and
+Siſter to the King of great <hi>Brittain</hi>
+               </head>
+               <l>WHen <hi>Gloceſter</hi> dy'd ſuch was my inward grief</l>
+               <l>As made me ſpeechleſs, knowing that his life</l>
+               <l>Was ſo profound a loſs, that weeping were</l>
+               <l>A too too common tendant on his Beere:</l>
+               <l>That ſorrow's weak that deluges the eye,</l>
+               <l>'Tis grief indeed that turns to extaſy.</l>
+               <l>But cuſtome bates the greatneſs by de<g ref="char:EOLhyphen"/>grees</l>
+               <l>None counts that ſtrange which every day he ſees:</l>
+               <l>Though then my grief's renew'd, yet fa<g ref="char:EOLhyphen"/>ſhion will.</l>
+               <l>Break through and on this Herſe la<g ref="char:EOLhyphen"/>ment its fill</l>
+               <pb n="68" facs="tcp:64991:40"/>
+               <l>The Princeſs dead! What diſmal ſound is that</l>
+               <l>Which to my Soul ſuch ſadneſs doth re<g ref="char:EOLhyphen"/>late?</l>
+               <l>Surely the fatal Siſters are agreed</l>
+               <l>Alwaies to <hi>cut</hi> never to <hi>ſpin</hi> a thread</l>
+               <l>Or if they will prolong, they then deviſe</l>
+               <l>To make Phyſitians (as that ſpirit of lies</l>
+               <l>Made <hi>Ahabs</hi> Prophets) erring and de<g ref="char:EOLhyphen"/>ceived</l>
+               <l>Whereby their words are not to be belie<g ref="char:EOLhyphen"/>ved</l>
+               <l>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap> Chriſt<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>as.</note>Or if they may yet every one may ſee</l>
+               <l>Who walks thereby, lives but in jeopardy</l>
+               <l>Hence thence pretenders, from whoſe outſide ſhew</l>
+               <l>We have receiv'd a ſecond dealy blow.</l>
+               <l>Fatal as that of Treaſon is the ayr</l>
+               <l>(As the late times) infected, thus to dare</l>
+               <l>Only at Royal Branches, or is this</l>
+               <l>Of latter plots the <hi>Metempſuchoſis.</hi>
+               </l>
+               <l>What will the <hi>Belgicke</hi> Lyon think, when now</l>
+               <l>He hears of this, with corrugated browth</l>
+               <l>Inwardly curſe the more then luckeleſs time</l>
+               <pb n="69" facs="tcp:64991:40"/>
+               <l>He ſpar'd his darling to our wretched clime</l>
+               <l>Tell me, ye fates did ye intend it thus</l>
+               <l>To bring a Gem and only ſhew it us?</l>
+               <l>Why have you elſe ſo ſoon our bleſſes croſt</l>
+               <l>To let us know <hi>by ſeeing what</hi> we loſt.</l>
+               <l>Bring her again, I'le ſearch the diſmal deep</l>
+               <l>For her loſt ſhade, nothing ſhall hold or keep</l>
+               <l>My zealous ſpirit from an hourly queſt</l>
+               <l>Until I find the place where ſhe doth reſt.</l>
+               <l>Then on my knees I'le pray that ſhe will tell</l>
+               <l>The cauſe and meanes how ſhe ſo early fell,</l>
+               <l>But ah! it is to late, ſhee's gon, and I</l>
+               <l>May melt my ſelf to teares, diſolve and dye</l>
+               <l>See how <hi>Great Charles</hi> himſelf doth ſadly
+ſhroude</l>
+               <l>His Kingly ſplendor in a mourning cloud</l>
+               <l>And how darke ſable the whole Court be<g ref="char:EOLhyphen"/>nights</l>
+               <l>Which elſe had gloried in <hi>feſtivous</hi> rites</l>
+               <pb n="70" facs="tcp:64991:41"/>
+               <l>And all is but too little, when we minde</l>
+               <l>Our loſs, for which ſuch ſorrow's left be<g ref="char:EOLhyphen"/>hinde.</l>
+               <l>Hence forward I to Heaven will daily bow</l>
+               <l>That it will daigne with a ſerener brow</l>
+               <l>To ſmile upon the <hi>Reſt,</hi> that years may
+bleſſe</l>
+               <l>Their heads when hoary, with freſh hap<g ref="char:EOLhyphen"/>pineſs.</l>
+               <l>Now though condoling greatens but our loſs</l>
+               <l>And ſence thereof but addeth to the croſs</l>
+               <l>
+                  <note place="margin">
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vid. Act. lib.</note>Yet we muſt greive and make each
+ſar<g ref="char:EOLhyphen"/>fetch't groan</l>
+               <l>
+                  <hi>Niobe</hi> like turne us almoſt to ſtone</l>
+               <l>Or with <hi>Ciane</hi> let our diſcontent</l>
+               <l>Admit no comfort while we do lament</l>
+               <l>Our <hi>Princeſs</hi> rape, that every one that heares</l>
+               <l>Our ſorrow, may with us diſſolve to tears.</l>
+               <l>Or thaw with <hi>Arethuſa</hi> to a ſpring</l>
+               <l>Nere to be drayn'd by all our ſorrowing</l>
+               <closer>
+                  <dateline>
+                     <date>
+                        <hi>Decem. 24. 1660.</hi>
+                     </date>
+                  </dateline>
+                  <signed>
+                     <hi>Sic maeſtiſſime plangit, T.</hi>
+Manley.</signed>
+               </closer>
+            </div>
+            <div n="interment" type="account">
+               <pb n="71" facs="tcp:64991:41"/>
+               <p>ON the 31 day of <hi>December</hi> fol<g ref="char:EOLhyphen"/>lowing ſhe was
+honourably though privatly interred in King <hi>Henry</hi> the ſeventh
+chappell at <hi>Weſt<g ref="char:EOLhyphen"/>minſter</hi> among her royal anceſtors. Her corps
+wayted on by abundance of the Nobility and Gentry, whoſe inward ſighes
+expreſſed thir ſorrow for ſo great a loſs.</p>
+               <p>But alas, as we know that inevitable decree <hi>Semel ſtatutum
+eſt omnibus mori,</hi> and thereby may gather that though they be as
+terreſtrial Gods, yet they ſhall dye like men; ſo we muſt there<g ref="char:EOLhyphen"/>by
+conclude,<note place="margin">Prov. 16.33.</note> good is the word of the Lord,
+ſince without his providence nothing can happen. The Lot is caſt, 
+<pb n="72" facs="tcp:64991:42"/>ſaith the wiſe man,<note place="margin">Pro.
+16.33.</note> into the lap, but the whole diſpoſition therof is of the
+Lord, ſo as that which ſeemeth moſt ſubject to chance is yet
+diſpoſed by the Ordinance of God. And hereof the wiſer ſort of
+philoſophers were not Ignorant, as <hi>Cicero</hi> witneſſeth for them in
+his collecting and compar<g ref="char:EOLhyphen"/>ing the opinion of <hi>Ariſtotle</hi> and his
+ſectators with that of <hi>Plato</hi> and the <hi>Academicks</hi> to this
+effect, that the ſame power wich they call <hi>Anima mundi</hi> was no other
+then that incom<g ref="char:EOLhyphen"/>prehenſible wiſdome, which we ex<g ref="char:EOLhyphen"/>preſs by the name of
+God, governing every thing in heaven and earth: To which alſo they
+ſometimes gave the name and title of Neceſſity and fate, becauſe it
+bindeth by an inevitable ordinance; ſometime the ſtile of for<g ref="char:EOLhyphen"/>tune,
+becauſe of many effects there appeares unto us no certain cauſe. To this
+effect St. <hi>Auguſtine</hi> in his queſti<g ref="char:EOLhyphen"/>on on <hi>Geneſis lib.</hi>
+1.<note place="margin">St. Aug. Queſt. in
+<gap reason="illegible" resp="#OXF" extent="1 word">
+                        <desc>〈◊〉</desc>
+                     </gap>
+                  </note> And likewiſe 
+<pb n="73" facs="tcp:64991:42"/>
+                  <hi>Seneca,</hi> which was alſo the Doctrine of the
+<hi>Stoicks,</hi> of which Sect he was: for whatſoever (ſaith he) thou
+call<g ref="char:EOLhyphen"/>eſt God, be it nature, fate or fortune, all are but one and the ſame
+differ<g ref="char:EOLhyphen"/>enced by divers termes according as he uſeth and excerciſeth his
+power diverſely. Why then ſhould we too ſolliciouſly greive, ſince
+their vertues aſſure us they are poſſeſſors of more then an earthly
+happineſs, the ſweet ſavor of their pius lives hath not been pleaſing
+to God, but for the future wil be an example to men, who ſhal record their
+fame and eternize their memories, which the duſt of oblivion or ingratiude
+can never ſully or co<g ref="char:EOLhyphen"/>ver, for in <hi>memoriâ aeternâ erit
+Iuſtus.</hi> The juſt ſhall be had in everlaſting remembrance.</p>
+               <p>Thus have I brought you to the graves of theſe two unparalleld
+Princes, it only remaines now that I <pb n="74" facs="tcp:64991:43"/>ſhew you them in
+character <hi>tanquam in ſpeculo,</hi> ſeverally by themſelves.</p>
+               <p>
+                  <hi>Henry</hi> Duke of <hi>Gloceſter</hi> born as aforeſaid
+was of complexion and haire of a dark colour, but in face and nature much
+reſembling his Fa<g ref="char:EOLhyphen"/>ther of glorious memory.</p>
+               <p>Now although it be none of the leaſt honour and happineſs to
+be borne of Noble and high parents, whoſe vertues have been more exem<g ref="char:EOLhyphen"/>plary
+then their lives; ſo it is alſo a great addition of felicity when Pa<g ref="char:EOLhyphen"/>ternal
+vertue goes with the deſcent, which very frequently happens ac, cording to
+that ſaying <hi>Eſt in juvencis Patrum Virtus,</hi> or as the old Poet
+ſpeaks more at large.</p>
+               <q>
+                  <l>Fortes creantur fortibus et bonis</l> 
+                  <l>
+                     <note place="margin">Horat. Ilb.
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>. ode 4.</note>Eſt in
+juvencis eſt in equis Patrum</l> 
+                  <pb n="75" facs="tcp:64991:43"/> 
+                  <l>Virtus, nec imbecillem ſeroces</l> 
+                  <l>Progenerant aquilae columbam</l>
+               </q>
+               <p>By which meanes as alſo his other endowments of learning he
+became one of the moſt rarely accompliſhed Gentleman of the world; in
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>is be<g ref="char:EOLhyphen"/>haviour ſober and
+ſomewhat inclin<g ref="char:EOLhyphen"/>ing to ſadneſs; of a ſtrong body and ſound
+conſtitution which were much bettered by a frequent and well diſ<g ref="char:EOLhyphen"/>plined
+exerciſe, whereby he became a moſt abſolute Maſter over himſelf, in
+the conquering all the paſſions and affections of his minde, which
+other<g ref="char:EOLhyphen"/>wiſe might have miſguided his youth; for the better clearing wherof,
+we muſt take notice, that three ſorts of actions proceed from mens ſouls,
+ſome are internal and immaterial as the act, of our wits or wills, two be
+more external and material, as the acts of our ſences, ſeeing, in hear<g ref="char:EOLhyphen"/>ing
+&amp;c. Three other ſtand between <pb n="76" facs="tcp:64991:44"/>theſe two extremes
+and border up<g ref="char:EOLhyphen"/>on them both, the diſcovery where<g ref="char:EOLhyphen"/>of is beſt found in
+Children, becauſe they lack the uſe of reaſon and a<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> guided by an internal imaginatio<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> following nothing elſe but
+that tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pleaſeth their
+ſences, no otherwiſ<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> then
+Brute Beaſts.<note place="margin">Aug. lib. 9. de civita<g ref="char:EOLhyphen"/>te dei ch. 4. &amp;
+Cice<g ref="char:EOLhyphen"/>ro queſt Ruſcul 3.</note> Theſe action which as it were common to us
+wit<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Beaſts are called
+paſſions, affections perfurbations and are certaine inter<g ref="char:EOLhyphen"/>nal acts or
+operations of the ſoule<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+bordering upon reaſon and ſenc<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> (proſecuting ſome good things or fly<g ref="char:EOLhyphen"/>ing ſome ill things) yet
+not equall<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> obſerving both,
+for paſſions and ſence, are like two evill ſervant<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> who beare more love to each other then either of
+them to their Maſter, but reaſon as a Princeſs in her Throne ſets
+bounds to thoſe ſeveral habits maintaining a continual conflict with them;
+which moſt men finding and perceiving that by making peace 
+<pb n="77" facs="tcp:64991:44"/>with their ſence, they ſhould receive
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>reat pleaſures,
+preſently ſtruck <gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ile
+thereto, and in deſpight of rea<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>on, what curioſity the eyes will ſee,
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ey yeilded unto them, what
+dainty <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ates the palate
+requireth they <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ever deny,
+nor ſavors or odors which <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ill pleaſe the ſent are reſtrained,
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or muſick to content the
+Eare is for<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>idden; and
+finally there is nothing <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f
+that coſt or rareneſs which ienſu<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lity can requeſt, but is preſently by
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ll the endeavours of
+importunity, <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rayers and
+riches ſought for and at<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ained, ſo that reaſon now being
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>onquered and, drawn to
+ſubmit <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>roves a better
+freind to ſenſuality <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hen
+the paſſions were before, in<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>enting ſtraight wayes ten thouſand
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>orts of delights which the
+dulneſs of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>he paſſions
+could have reached to or <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nce
+imagined; ſo that if it ſhould
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e asked who was the firſt
+cauſe of <gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o much
+profuſeneſs and prodigality
+<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n meats and drinks, clothing
+and <pb n="78" facs="tcp:64991:45" rendition="simple:additions"/>attire, coſtly buildings and rich fur<g ref="char:EOLhyphen"/>niture,
+no better anſwer can be give then this reaſon to pleaſe ſenſuality
+which made a religious man one lamenting this ignominious induſtr<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of reaſon to ſence, wiſh
+with all h<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> heart, that
+godly men were but ha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſo
+induſtrious to pleaſe God a<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> worldly men to pleaſe their inordi<g ref="char:EOLhyphen"/>nate appetites.</p>
+               <p>Now although it be true as is be<g ref="char:EOLhyphen"/>fore ſpoken, yet doubtleſs
+theſe paſ<g ref="char:EOLhyphen"/>ſions may be guided by vertue; and by good men ſo moderated
+tha<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> they ſhall rather
+ſerve for Inſtru<g ref="char:EOLhyphen"/>ments of vertue then fomenters
+<gap reason="illegible" resp="#OXF" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>vice. And the reaſon
+commonly al<g ref="char:EOLhyphen"/>lowed of Philoſophers and divine<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> moſt pregnantly proveth this verity<g ref="char:punc">▪</g> for
+if the motions of our wills be ver<g ref="char:EOLhyphen"/>tuous and directed by the ſquare of
+religion and prudence, certainly with the ſame if not much more eaſe<gap reason="illegible" resp="#OXF" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> pleaſure &amp; delight
+vertuous actions are accompliſhed then vicious ther<g ref="char:EOLhyphen"/>upon the Phioſophers
+and fathers <pb n="79" facs="tcp:64991:45"/>perceiving what commodities theſe
+paſſions afford to a vertuous ſoule with divers ſimilitudes declared
+their ſervice;<note place="margin">Cicero 3. Tusc.</note> ſome (ſay they
+were ſparkes of fire apt to kindle vertue into a flame, (others) that they
+were Souldiers to attend their Captains.<note place="margin">Baſ. Hom. contra
+Iraſcentes</note> They be like water ſaith St. <hi>Baſil,</hi> that
+ſuſtaineth oyle about it that it may run more purely and not be in<g ref="char:EOLhyphen"/>fected
+with earth.<note place="margin">Baſ. der Vi<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>gin<gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                  </note> They are alſo compared to Horſes, which draw a Coach,
+ſo the paſſions draw the ſoule to the fruition of her vertuous objects
+and indeed the paſſions of our minds; are not unlike the humours of our
+bodyes,<note place="margin">Cicero. 4. Tuſc.</note> whereunto <hi>Cicero</hi>
+well com<g ref="char:EOLhyphen"/>pareth them, for if blood, flegm, chol<g ref="char:EOLhyphen"/>ler or melancholly exceed the
+due proportion required to the conſtitu<g ref="char:EOLhyphen"/>tion and health of our bodies,
+pre<g ref="char:EOLhyphen"/>ſently we fall into ſome diſeaſe; ſo if the paſſions of the
+mind be not mo<g ref="char:EOLhyphen"/>d learnedly teaeated according to reaſon and that temperature
+that vertue requireth, <pb n="80" facs="tcp:64991:46"/>immediately the ſoul is moleſted
+with ſome malady, but if the hu<g ref="char:EOLhyphen"/>mours be kept in a due proportion they are
+the preſervation of health: hereby may be gathered that paſſi<g ref="char:EOLhyphen"/>ons are not
+wholly to be extinguiſhed (as the <hi>Stoickes</hi> ſeem to affirme) but
+rather to be ſometimes moved and ſtirred up for the ſervice of ver<g ref="char:EOLhyphen"/>tue as
+<hi>Plutarch</hi> learnedly teacheth. This hath many excellent Captaines in
+former ages whome the deſire of glory and repute ſtirred up to many
+honourable atcheivements, and if many rare wits had not been preſſed with
+the ſame affections we ſhould neither ſeen <hi>Homers</hi> poetry,
+<hi>Platoes</hi> divinity, <hi>Ariſtotles</hi> Philoſophy, <hi>Plinys</hi>
+Hiſtory, nor <hi>Tullies</hi> Eloquence: It cannot but be granted that
+ſhame<g ref="char:EOLhyphen"/>facedneſs retaineth from many of<g ref="char:EOLhyphen"/>fences: fear of puniſhment keepeth
+from theft, and remorſe of conſcience calleth many ſinners to the grace
+of God.</p>
+               <pb n="83" facs="tcp:64991:46"/>
+               <p>Now it cannot be denyed but that the minds of all men are thus
+charged with paſſions, and that thoſe paſſions work divers effects
+for their diſcovery, according to that of the Poet, 
+<q>
+                     <l>O quam difficile eſt crimen non prodere vultu.</l>
+                  </q> And
+as <hi>Pliny</hi> alſo ſpeaketh,<note place="margin">Plin. l.
+<hi>11.</hi>
+                  </note> 
+                  <hi>Frons hominis triſtitiae, incaritatis, clemen<g ref="char:EOLhyphen"/>tiae,
+ſeveritatis Index eſt.</hi>
+                  <note place="margin">Q. Curt. l.
+<hi>2.</hi>
+                  </note> 
+                  <hi>Alexan<g ref="char:EOLhyphen"/>der</hi> the Great (as <hi>Curtius</hi> relates
+it) had experience hereof, who after he had wonne the City of <hi>Tarſon</hi>
+belonging to <hi>Darius,</hi> en<g ref="char:EOLhyphen"/>tring upon a hot Summers day into the River
+<hi>Cidmus,</hi> and there<g ref="char:EOLhyphen"/>by catching ſo vehement an ague that hindered his
+journey at preſent againſt his Enemies, which then began to draw near to
+him, he reſolved in himſelf for avoiding the threatned miſchief to take
+ſome very ſtrong Medi<g ref="char:EOLhyphen"/>cine, that ſhould preſently either 
+<pb n="84" facs="tcp:64991:47"/>mend or end him; To this pur<g ref="char:EOLhyphen"/>poſe, <hi>Philip</hi> an
+ancient Phyſitian who had conſtantly waited on him from his youth was
+ſpoken with, who promiſed to prepare him a Potion according to his
+deſire: While <hi>Philip</hi> was making ready the Potion, <hi>Parmenio</hi>
+a Captain, whom <hi>Alexander</hi> of all other moſt loved and truſted,
+underſtanding the King's Deter<g ref="char:EOLhyphen"/>mination, ſent him a Letter, ad<g ref="char:EOLhyphen"/>viſing not
+to meddle with <hi>Philip</hi>'s potion, becauſe he underſtood he was
+corrupted by <hi>Darius</hi> with promiſe of a thouſand Talents and his
+Siſter in Marriage that he ſhould kill him; <hi>Alexander</hi> was much
+perplexed in his mind at this news &amp; while he was deba<g ref="char:EOLhyphen"/>ting with himſelf
+what to doe, his Phyſitian brought him the Po<g ref="char:EOLhyphen"/>tion: when the King ſaw him
+he raiſed himſelfe upon his elbow, and taking the Letter in the left Hand,
+with his Right tooke the <pb n="85" facs="tcp:64991:47"/>Cup and drank off the Phyſicke;
+which done, he delivered the Letter to <hi>Philip</hi> to read, and looked
+earneſtly into his Face as long as he was reading, ſuppoſing that if he
+had been faulty, ſome token would have appeared in his Countenance, imagining
+with himſelfe that as the pulſe decla<g ref="char:EOLhyphen"/>reth the operations of the heart,
+ſo the internal cogitations and affections of the mind whether virtuous or
+vicious, no where ſooner bewray themſelves, then through thoſe living
+windowes wherewith Nature hath compaſ<g ref="char:EOLhyphen"/>ſed the oloſets of our fancy<g ref="char:punc">▪</g>
+when <hi>Philip</hi> had read the Letter, he ſhewed more tokens of
+diſ<g ref="char:EOLhyphen"/>pleaſure then fear, which toge<g ref="char:EOLhyphen"/>ther with the proteſtations of the
+Phyſitian of his innocence, aſſured <hi>Alexander</hi> ſo of his
+fidelity he not onely rejected all feare of death but conceived an
+extraor<g ref="char:EOLhyphen"/>dinary hope of amendment, as <pb n="86" facs="tcp:64991:48"/>indeed not long after
+it proved.</p>
+               <p>If it be ſo then, that the face may be called <hi>mentis
+ſpeculum</hi> the minds looking-glaſſe, which diſ<g ref="char:EOLhyphen"/>covereth the heart to
+be the ſeat of our paſſions; then hence may be deduced a moſt certain
+Con<g ref="char:EOLhyphen"/>cluſion, that according to the diſpoſition of the heart, humors and
+body, divers ſorts of perſons be ſubject to divers ſorts of
+paſ<g ref="char:EOLhyphen"/>ſions, and the ſame paſſion affect<g ref="char:EOLhyphen"/>eth divers ſorts of
+perſons in di<g ref="char:EOLhyphen"/>vers manners; for as we ſee fire applyed to dry Wood or Iron,
+or Flax, or Gun-powder worketh divers wayes; for in wood it kin<g ref="char:EOLhyphen"/>dleth with
+ſome difficulty, and with ſome difficulties is quench<g ref="char:EOLhyphen"/>ed, but in flax is
+ſoon kindled and quenched, in iron very hard<g ref="char:EOLhyphen"/>ly, but in Gun-powder in a
+mo<g ref="char:EOLhyphen"/>ment, and can never be quenched till the powder be Conſumed: ſo ſome
+men you ſhall ſee ſoon angry and ſoon pleaſed, others 
+<pb n="87" facs="tcp:64991:48"/>hardly offended and with as great difficulty reconciled,
+o<g ref="char:EOLhyphen"/>thers are all fire, and in a mo<g ref="char:EOLhyphen"/>ment with every trifle will be in<g ref="char:EOLhyphen"/>flamed, and
+till their hearts be conſumed almoſt with Choller will never ceaſe until
+they be re<g ref="char:EOLhyphen"/>venged; which confirmes that old ſaying to be true, <hi>Animi
+mo<g ref="char:EOLhyphen"/>res corporis temperatum ſequuntur.</hi> As then in Maladies of the body
+every man feeleth beſt his own griefe, even ſo in diſeaſes of the
+ſoule every man knoweth beſt his own inclination; Neverthe<g ref="char:EOLhyphen"/>leſſe (as
+Phyſitians commonly affirm) there be certain General cauſes which incline
+our bodyes to ſeveral infirmities, ſo there are likewiſe that move our
+ſoules to ſundry paſſions; for it cannot be denyed or doubted but that
+there are ſome affections in the higheſt and chiefeſt part of the ſoul:
+for to God the Scriptures aſcribe, <hi>Love, Hatred, Anger,</hi> &amp;c. 
+<pb n="88" facs="tcp:64991:49"/>although he cannot be ſubject to any ſenſitive
+operation.</p>
+               <p>But to return, the young Duke by a deep judgement having
+wiſely foreſeen this, did for the better ordering of himſelf make uſe
+of that Golden Rule.</p>
+               <q> 
+                  <lg>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap> —</l>
+                  </lg> 
+                  <lg>
+                     <l>
+                        <hi>Believe all this, and next theſe ha<g ref="char:EOLhyphen"/>bits
+gain,</hi>
+                     </l>
+                     <l>
+                        <hi>From wrath and ſleep; and food, and luſt
+refrain.</hi>
+                     </l>
+                  </lg> 
+               </q>
+               <p>And looking at Religion as the chief point of true Nobility,
+according to that in another place,</p>
+               <q>
+                  <lg>
+                     <l>— <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>
+                     </l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>,</l>
+                  </lg> 
+                  <lg>
+                     <l>
+                        <hi>Be thou aſſured their Off-ſpring is
+divine,</hi>
+                     </l>
+                     <l>
+                        <hi>To whom things holy through clear nature
+ſhine.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <pb n="89" facs="tcp:64991:49"/>
+               <p>It might truly be ſaid of him which was ſpoken by
+<hi>Solomon</hi> in another cafe,<note place="margin">Pro. 31.25</note> that his
+lips drop<g ref="char:EOLhyphen"/>ped Wiſdome when they ope<g ref="char:EOLhyphen"/>ned; and what <hi>Job</hi> ſpoke of
+him<g ref="char:EOLhyphen"/>ſelfe, may be truly attributed to him, <hi>The young men ſaw him and
+hid themſelves, the Aged roſe and ſtood up, the Princes refrained
+talk<g ref="char:EOLhyphen"/>ing and laid their Hands on their Mouths the Nobles held their peace; when
+the Ear heard him, then it bleſſed him; and when the Eye ſaw him, it gave
+witneſſe to him,</hi> Job 30.8, 9, 10, 11.</p>
+               <p>To be ſhort, his wiſdome was great in that he was able to
+ad<g ref="char:EOLhyphen"/>viſe, and greater in that he was willing to be adviſed; never ſo
+wedded to his own reſolves but on good ground he would be di<g ref="char:EOLhyphen"/>vorced from
+them; his tempe<g ref="char:EOLhyphen"/>rance was great, his diet ſparing, ſleep moderate, not to
+pamper nature but keep it in repair: plea<g ref="char:EOLhyphen"/>ſures he rather did but taſt or
+ſip <pb n="90" facs="tcp:64991:50"/>then greedily drink off, and that ſometimes more to
+content o<g ref="char:EOLhyphen"/>thers then pleaſe himſelf. Of a quicker apprehenſion, Eloquent
+tongue, and what was worthy of moſt repute; he was very religi<g ref="char:EOLhyphen"/>ous, well
+skilled in ſeveral Lan<g ref="char:EOLhyphen"/>guages, and extraordinarily ſeen in divine Sciences.
+To conclude, his ſoul was enriched with many Vertues, but the moſt Orient
+of all was his humility which took all mens love and affections with<g ref="char:EOLhyphen"/>out
+reſiſtance, and made his death the more lamented, by which means we doubt
+not his Ever<g ref="char:EOLhyphen"/>laſting bliſſe.</p>
+               <q>
+                  <lg>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>,</l>
+                     <l>
+                        <gap reason="foreign">
+                           <desc>〈 in non-Latin alphabet 〉</desc>
+                        </gap>.</l>
+                  </lg> 
+                  <lg>
+                     <l>
+                        <hi>Now raiſ'd to Heaven, he from his body free,</hi>
+                     </l>
+                     <l>
+                        <hi>A Death-leſſe Saint, no more ſhall mortall
+be.</hi>
+                     </l>
+                  </lg>
+               </q>
+               <p>I ſhall only give you a few of his obſervations, which while
+he <pb n="91" facs="tcp:64991:50"/>lived he was known to have made, whereby his wiſdome
+may be the better diſcerned; for if <hi>ex pede Herculem,</hi> as by the
+bigneſs of <hi>Hercules</hi> foot, we may gueſſe at the vaſt
+dimenſions of the other parts of his body, ſo the judge<g ref="char:EOLhyphen"/>ment of mens
+abilities are to be learned by their ſayings; as a touch whereof I ſhall in
+the way of a Corollory add only theſe few of this moſt pious Prince as
+here<g ref="char:EOLhyphen"/>after they ſufficiently follow.</p>
+               <p n="1">1. It was an obſervation noted by him, That Good &amp;
+Great men may ſecure themſelves from guilt but not from Envy; for the
+grea<g ref="char:EOLhyphen"/>teſt in truſt of publick Affairs are ſtill ſhot at by the
+aſpiring of thoſe that think themſelves leſſe in imployment then they
+are in merit.</p>
+               <p n="2">2. That oftentimes it is ſeen, that mens Conſciences
+convin<g ref="char:EOLhyphen"/>cing them of another mans deſert and merit, they ſuſpect
+oppoſiti<g ref="char:EOLhyphen"/>on <pb n="92" facs="tcp:64991:51"/>in them, whereby their great<g ref="char:EOLhyphen"/>neſſe may be
+Eclipſed, and there<g ref="char:EOLhyphen"/>fore ſtrive by all means to put diſgrace on his
+perſon and parts, thereby to hinder his riſing; for whilſt a man is out
+of imploy<g ref="char:EOLhyphen"/>ment and finding that he cannot ſo publickly expreſſe his
+worth, they ſtill labour to keep him in obſcurity to the end that
+them<g ref="char:EOLhyphen"/>ſelves may appear more glorious.</p>
+               <p n="3">3. It was the practiſe of <hi>Con<g ref="char:EOLhyphen"/>ſtantine</hi> the
+Emperor when his E<g ref="char:EOLhyphen"/>nemy <hi>Licimus</hi> began his Warrs with
+<hi>Exorciſmes</hi> and <hi>Charmes,</hi> he undertook all with prayer and
+holy Meditations, and therefore the Lord of Heaven made him Lord of the Field:
+and he found ſuch comfort by prayer that he ſtamped upon his coin the image
+of himſelfe praying to God. The Duke inferred from thence this Concluſion,
+How neceſſary this duty of prayer is for ſetling our affairs; my ſoul I
+am ſure is expe<g ref="char:EOLhyphen"/>rimentally <pb n="93" facs="tcp:64991:51"/>ſenſible, if we ſettle
+our Affairs right with God, he will ſettle our buſineſs with man: is it
+not his own promiſe, <hi>Ask and it ſhall be given to you.</hi>
+               </p>
+               <p n="4">4. This alſo was a ſimilitude uſed by him. As a pot
+full of Water in the heat of Summer is troubled and polluted with many flies,
+but if it be boyled upon the fire they neither would nor durſt come neer it;
+ſo (ſaith he) while our ſoules in prayer are cold and liveleſſe, we
+are ſtill perplexed and have no reliefe from our troubles, whereas if our
+minds were inflamed with zeal, all Va<g ref="char:EOLhyphen"/>nities would be abandoned, and our
+prayers ſo rectifyed that we ſhould not offer the Sacrifice of Fools.</p>
+               <p n="5">5. That there is no better mark of a true generous
+ſpirit then to attempt things which are hard to be atchieved: 'Tis in vulgar
+and adulterate ſpirits, that the ſoul of <pb n="94" facs="tcp:64991:52"/>motion is
+wholy derived from the livelyhood of action: Noble ſpirits court dangers.
+<hi>Avida eſt periculi virtus: Nec juvat ex facili lecta Corona
+jugo.</hi>
+               </p>
+               <p n="6">6. He tooke great delight in that ſaying of
+<hi>Ariſtippus</hi> the Phi<g ref="char:EOLhyphen"/>loſopher, who was wont to affirm that it was
+better to be a Beggar then unlearned, becauſe the Beg<g ref="char:EOLhyphen"/>gars penury was onely
+want of Money, but he that was unlearn'd was deſtitute of humanity.</p>
+               <p n="7">7. He was wont to Note that the Ladder of <hi>Jacob</hi>
+mentioned in <hi>Geneſis</hi> is but a Figure of Chriſt, which by his
+humane Na<g ref="char:EOLhyphen"/>ture touched Earth, and by his Divinity Heaven; therefore if we or
+our prayers paſſe by this Ladder, we have the Father at the top of the
+Ladder ready to receive us and our prayers.</p>
+               <p n="8">8. He uſed to ſay, That it is familiar with fortune to
+do more harm in one day, then ſhe doth <pb n="95" facs="tcp:64991:52"/>good in many
+years, uſing in delight to raiſe up vain Men for her glory, and on a
+ſudden ſuffe<g ref="char:EOLhyphen"/>ring them to fall with the weight of their proper vanity and
+want of Government.</p>
+               <p n="9">9. When he had read the Story of <hi>Archelaus</hi> King
+of <hi>Macedonia,</hi> who being requeſted by a Mi<g ref="char:EOLhyphen"/>nion of his Court to give
+him a certain cup of Gold, delivered it to his Page, commanding him to beare
+and give it to one <hi>Euripides</hi> who was there preſent; and then ſaid
+to the other, As for thee, thou art worthy to aske and to be de<g ref="char:EOLhyphen"/>nied alſo;
+but <hi>Euripides</hi> is wor<g ref="char:EOLhyphen"/>thy of gifts though he ask no<g ref="char:EOLhyphen"/>thing. Surely
+ſaid the Duke, this was an excellent reward for an inſinuating Paraſite,
+and a rare pattern for other Princes, who thereby may learn, that a
+deſer<g ref="char:EOLhyphen"/>ving Subject ought to be rewar<g ref="char:EOLhyphen"/>ded, though his owne modeſty withhold
+him from asking.</p>
+               <pb n="96" facs="tcp:64991:53"/>
+               <p n="10">10. He alwayes argued, that Faith and Obedience are to be
+perſwaded, not wrought by com<g ref="char:EOLhyphen"/>pulſion: our minds, like unto generous and
+Noble horſes, being beſt ruled with an eaſie bit; how<g ref="char:EOLhyphen"/>beit it is
+neceſſary not altogether to relye on words, for two things do Eſtabliſh
+a Kingdome, <hi>viz.</hi> Force and Vertue, which be<g ref="char:EOLhyphen"/>tween them produce that
+ſinew of Warre, Money, according to that ſaying of <hi>Themiſtocles</hi>
+going in <hi>Embaſſy</hi> to the <hi>Iſle of Andros;</hi> for Money, he
+told them that he came accompanyed with two Goddeſſes, <hi>viz.</hi>
+Perſwaſion and Force.</p>
+               <p n="11">11. He conſtantly affirmed; that they are much
+miſtaken in their ayme who think to make a man infamous by Death: for there
+is no Life ſo odious, that ending in publick with conſtan<g ref="char:EOLhyphen"/>cy and modeſty
+changeth not hatred into pity, pity into favor, <pb n="97" facs="tcp:64991:53"/>and leaveth
+not ſome favourable opinion of innocence behind it.</p>
+               <p n="12">12. Another obſervation was, That a man ſhould not
+derogate from himſelf, there being two many ready enough for that of<g ref="char:EOLhyphen"/>fice, at
+leaſt to believe him as one that beſt knows what he moſt wants; and
+certainly he that doth cenſure himſelfe, hath no colour for an appeal, nor
+perſon to appeale to, unleſſe it be from his Words to his Deeds, which
+then muſt be very remarkable. Howſoever he muſt acknowledge it to be
+great folly to have de<g ref="char:EOLhyphen"/>nyed that ability in himſelfe which he deſires to be
+much known, for thereby he is become a diſtroyer of his own fame.</p>
+               <p n="13">13. And other times he noted, That there is nothing more
+un<g ref="char:EOLhyphen"/>juſt then to Condemne thoſe things which our ſelves do not or ſee
+not, eſpecially when whole Nations agree in it: for when <pb n="98" facs="tcp:64991:54"/>only time makes them pleaſe us; it is apparent that in that they
+firſt diſpleaſed us, it was not their fault, but our ignorance. And it is
+to be thought that all Countries have both Manners and Habits agreeing to their
+Clime, which the <hi>Genius</hi> of the Countrey will infuſe into you if you
+ſtay long enough in it. <hi>Ter<g ref="char:EOLhyphen"/>ram alienam perigrinus exigit &amp; ſunm
+interdum alienum facit</hi>
+               </p>
+               <p n="14">14. He ſaid, That the trueſt and ſecureſt
+precepts of policy are thoſe which either are drawn from the prudent
+reſolutions or unadviſed errors of great Princes in the deliberations of
+their moſt important Affairs, or from the ſtudy of policy: all
+conſiſting in a ſevere and judicious cenſure of the Actions of the
+Great: and the ſtudious in Hiſtories, which have the gift to know how to
+examine them, will draw out of them excellent Rules for the <pb n="99" facs="tcp:64991:54"/>well governing of many peo<g ref="char:EOLhyphen"/>ple.</p>
+               <p n="15">15. He averred it to be an Obſervation as well knowne
+as true, That in the Infancy of the Church, men thought nothing too dear for
+God or too good to be imparted unto the Church; but now (ſaid he) we are
+arrived to ſuch times wherein all are generally Church-robbers: but the
+Sacrilegious perſon and the Simoniſt never yet did nor ever ſhall
+proſper to the third Gene<g ref="char:EOLhyphen"/>ration: they are the two profa<g ref="char:EOLhyphen"/>ners of holy things:
+But God hath and will confound them in <hi>Jacob</hi> and ſcatter them in
+<hi>Iſraell.</hi>
+               </p>
+               <p>Thus have I given you a ſhort view of the life of this moſt
+Ex<g ref="char:EOLhyphen"/>cellent Prince, together with a ſhort character both of his perſon and
+vertues: and a demonſtra<g ref="char:EOLhyphen"/>tive appearance of a moſt emi<g ref="char:EOLhyphen"/>nent wiſdome, all
+which not<g ref="char:EOLhyphen"/>withſtanding <pb n="100" facs="tcp:64991:55"/>we muſt conclude all we can
+ſay, is too ſhort; So that we muſt ſay of him as <hi>Par<g ref="char:EOLhyphen"/>rharius</hi>
+did when painting the <hi>Hoplitides,</hi> he could neither make him that ran
+to ſweat, nor the other that put off his Armour to breath, added, <hi>No
+further then co<g ref="char:EOLhyphen"/>lours;</hi> ſo when we ſearched the depth of Invenction and
+ſtrained Rhetorick to her higheſt pitch of Eloquence to adapt words to
+ſet forth his Eulogies, we muſt at laſt ſubmit and confeſſe they
+all fall ſhort of the reality that was in him; and with <hi>Alexander</hi> at
+the Tomb of <hi>Achilles,</hi> burſt in<g ref="char:EOLhyphen"/>to tears and cry: <hi>Haeccine
+Tro<g ref="char:EOLhyphen"/>phaea ſunt?</hi> Are there all the Tro<g ref="char:EOLhyphen"/>phies, the world could erect to
+the memory of thy virtues? mean thus, it is confeſſed, yet ſuch as
+ſhall eternize his Fame as long as there ſhall be a Tongue to ſpeak or an
+Ear to hear</p>
+               <p>I muſt not in this place forget <pb n="101" facs="tcp:64991:55"/>the late
+deceaſed Princeſſe of <hi>Orange,</hi> whoſe Character I promi<g ref="char:EOLhyphen"/>ſed
+you, and here ſnall briefly inſert it.</p>
+               <p>Her Birth, Breeding, Educa<g ref="char:EOLhyphen"/>tion, and Marriage, you have be<g ref="char:EOLhyphen"/>fore
+at large related; Her perſon was of a curious make, her Vi<g ref="char:EOLhyphen"/>ſage faire,
+whereto was added a graceful baſhfulneſſe which gave a luſtre to her
+beauty; her eve<g ref="char:EOLhyphen"/>ry part being decked with ſome particular Ornament; her mind
+richly Embellifyed with the ra<g ref="char:EOLhyphen"/>reſt qualities, and full of wit; her ſpeech
+pretious becauſe not fre<g ref="char:EOLhyphen"/>quent: her modeſty without parallel, and her
+behaviour ſeri<g ref="char:EOLhyphen"/>ous, without either pride or affe<g ref="char:EOLhyphen"/>ctation; in ſhort, ſhe
+was ſuch as we may rather admire, then prayſe according to deſert, and
+whoſe loſſe we may rather be<g ref="char:EOLhyphen"/>wayle and lament then recover.</p>
+               <p>She was ſo well ſetled in the Principles of Religion, that
+ſhe <pb n="102" facs="tcp:64991:56"/>remained as a Rock immoveable, and as eminent for
+her courage therein, as thoſe who in former Ages did offer themſelves to
+moſt grievous torments, and to death it ſelf for the love of the Truth;
+immitating therein her late Roy<g ref="char:EOLhyphen"/>al Father of Glorious and ever Bleſſed
+Memory, who parted with his Life rather then he would his Religion. And indeed
+ſeldome ſhall we ſee ſuch a Father without ſuch Children, or ſuch
+Children without ſuch a Father; for the plant is known by the fruit, and as
+is the Egge, ſo is the Bird that hatcht it. And as it is thus in vertue, ſo
+likewiſe it is in vitious off-ſprings, by which means in pollicy, we may
+learne by the villanous and bloody car<g ref="char:EOLhyphen"/>riage of ſuch mens actions how to
+manage a juſt and lawful cauſe to bring Execution upon Rebels and Traytors,
+that is, to do no<g ref="char:EOLhyphen"/>thing to the halfes, but when the <pb n="103" facs="tcp:64991:56"/>Sword
+of Juſtice is drawn, to throw the Scabbard into the fire, <hi>Tolle
+omnes</hi> (ſaith <hi>Seneca</hi>) <hi>nam profecto parentes libinque eorum
+qui interfecti,</hi>
+                  <note place="margin">
+                     <hi>Sen.</hi> De Cle.</note> 
+                  <hi>&amp;
+
+propinqui &amp; amici in locum ſingulorum ſuccedunt: his paenam, ſi tuto
+poteris, donabis: ſic minus, Temperabis.</hi>
+               </p>
+               <p>Her devotions were Frequent and Exemplary, not ſo much out of
+cuſtome performed as zeale, and that not with a cold careleſs<g ref="char:EOLhyphen"/>neſſe but
+reverentiall Humility, approaching to her God as a du<g ref="char:EOLhyphen"/>tifull Child to a tender
+Father, whoſe bowels yern to give a ſu<g ref="char:EOLhyphen"/>table anſwer to the humble
+ad<g ref="char:EOLhyphen"/>dreſſe of his bowing ſupplyant; being not only to her ſelfe, an
+in<g ref="char:EOLhyphen"/>citer, but to all about her a pious example.</p>
+               <p>In the choice of her friends ſhe was very curious, chooſing
+the beſt and moſt Vertuous, though not Allyed to her, with them
+converſing and exerciſing vertue, <pb n="104" facs="tcp:64991:57"/>as the Philoſopher
+ſpeaks: 
+<q>mdash; <gap reason="foreign">
+                        <desc>〈 in non-Latin alphabet 〉</desc>
+                     </gap>.</q> And to the adviſe of ſuch
+ſhe yielded conſent, as being in her ſelfe ſenſible of thoſe things
+that did concerne her honour or any way conduce to her advantage.</p>
+               <p>It is but a part of duty, in caſe one know better then another
+to impart it for the common good; and for others mildly to obey ſuch things
+as ſhall be wiſe<g ref="char:EOLhyphen"/>ly repreſented.</p>
+               <p>Her patience was Admirable, bearing the many croſſes of her
+Life, as the Murder of her Fa<g ref="char:EOLhyphen"/>ther, and Exile of her Mother, and all her
+neereſt Relations; with a true Chriſtian and more then Womanly Courage.</p>
+               <p>Theſe indeed and the like, ſaith a Wiſe Man, are very
+harſh and inſupportable to life,<note place="margin">Hierocl.</note> but yet
+not really evil. So long as they occaſion us not to layſe into
+wickedneſſe: for if we can bear <pb n="105" facs="tcp:64991:57"/>our Misfortunes
+moderately and with reſolution, as reflecting up<g ref="char:EOLhyphen"/>on the Cauſes and
+Occaſions of them, remedying as much as in us lyes, thoſe accidents ſeeme
+hurtfull, but making profitable uſe of them, but eſpecially to aim by a
+perfection of vertue to be<g ref="char:EOLhyphen"/>come worthy to participate of the Divine
+Happineſs; <hi>In ſhort,</hi>
+               </p>
+               <p>Such and ſo Eminent were her many Vertues that we my juſtly
+ſay of Her as <hi>Solomon</hi> of his Ver<g ref="char:EOLhyphen"/>tuous Woman; <hi>Favor is
+Deceit<g ref="char:EOLhyphen"/>full, and Beauty is Vaine, but a Wo<g ref="char:EOLhyphen"/>man that Feareth the Lord, ſhe
+ſhall be prayſed. And many Daughters have done Vertuouſly, but thou
+ex<g ref="char:EOLhyphen"/>celleſt them all.</hi>
+               </p>
+               <p>In a word, to ſumme up all. As in things we have ſo in
+thoſe we do, each hath his proper tryal to prove the Excellency thereof in
+his kind; Gold by the Teſt, The Diamond by his hardneſſe, Pearle by his
+water; ſo the beſt <pb n="106" facs="tcp:64991:58"/>diſcoverers of the Minds of men
+are their Actions; which in the Lives and Characters of theſe two Famous Dead
+Princes hath been endeavoured, with as much Can<g ref="char:EOLhyphen"/>dor as can on any hands be
+ex<g ref="char:EOLhyphen"/>pected.</p>
+               <p>Laſtly, It ſhall be my prayer to God to ſend Health and
+Peace into the Habitations of our Roy<g ref="char:EOLhyphen"/>all Soveraigne, and that Heaven will be
+pleaſed to ſpare Him and His in Mercy to this Kingdome, and Crown them with
+length of Dayes and Happineſſe.</p>
+               <p>Seneca <hi>De Tranquilitate.</hi>
+               </p>
+               <p>
+                  <hi>Non is ſolus reipublicae prodeſt qui tuetur nos, &amp;
+de pace belloque cenſet, ſed qui juventutem exhorta<g ref="char:EOLhyphen"/>tur, qui in tanta
+bonorum praecepto<g ref="char:EOLhyphen"/>rum inopia virtute inſtruit animos, etſi nihil aliud
+certe, in privato du<g ref="char:EOLhyphen"/>blicum negotium agit.</hi>
+               </p>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div n="Henry duke of Gloucester" type="elegy">
+               <pb n="107" facs="tcp:64991:58"/>
+               <head>AN ELEGIE On the Death of the moſt Illuſtrious
+<hi>PRINCE</hi> HENRY <hi>D<g ref="char:V">Ʋ</g>KE</hi> of <hi>GLO<g ref="char:V">Ʋ</g>CESTER.</hi>
+               </head>
+               <lg>
+                  <l>SOme Princes lives, ſuch cold affections bred,</l>
+                  <l>That we do ſcarce repent their being dead.</l>
+                  <l>And ſuch indifferent griefes attend their rights,</l>
+                  <l>As they were not their Funerals, but our ſights.</l>
+                  <l>Herſe, Scutchins, darkneſs, the pale tapers blaze;</l>
+                  <l>All that invites our firſt, or after gaze;</l>
+                  <l>The Nobles, Heraulds, Mourners ſable-clad;</l>
+                  <l>Theſe make a ſolemne pompe, but not a ſad.</l>
+                  <l>But to your Obſequies deer Prince! we come,</l>
+                  <l>As they that would beg tenements in your tomb</l>
+                  <pb n="108" facs="tcp:64991:59"/>
+                  <l>And by your genuine ſorrows ſeek to prove,</l>
+                  <l>Thoſe Indians wiſe that die with thoſe they love,</l>
+                  <l>And no leſs penance can theſe Nations ſhrive,</l>
+                  <l>Which make thee dead ſo long, while yet alive.</l>
+                  <l>And by as cruel method, as unjuſt.</l>
+                  <l>Bury thee firſt in Exile, then in Duſt.</l>
+                  <l>Thy ſufferings Inventary roſe ſo high,</l>
+                  <l>There ſcarce was other left thee, but to die.</l>
+                  <l>And this was that in all his rage and ſtorme,</l>
+                  <l>Though <hi>Cromwel</hi> wiſht, he trembled to perform.</l>
+                  <l>When pawzing here after thy ſlaughter'd Sire,</l>
+                  <l>He ſeem'd to fear this was to murder High'r.</l>
+                  <l>And bathing his black ſoul ith' ſacred flood,</l>
+                  <l>He durſt gorge Royal but not tender blood.</l>
+                  <l>Where then ſhall innocence in ſafety ſit?</l>
+                  <l>When a diſeaſe it ſelfe doth <hi>Cromwell</hi> it.</l>
+               </lg>
+               <lg>
+                  <l>If a diſtemper our complaints may bear,</l>
+                  <l>And we may fix a reverent quarrel there.</l>
+                  <l>Nere to be reconcil'd, purſue we ſtill</l>
+                  <l>Thy fate, that did with more then ſlaughter kill</l>
+                  <l>The ſharp diſquiets of an aking brain,</l>
+                  <l>A heart in ſunder torne, yet whole to pain.</l>
+                  <l>Eyes darting forth dimme fires, inſtead of ſight;</l>
+                  <l>At once made ſee, and injur'd by the light;</l>
+                  <l>Faint pulſe; and tongue to thirſty cinders dry'd</l>
+                  <l>When the relief of thirſt muſt be denyd.</l>
+                  <l>the bowels parcht, limbs in tormenting throws</l>
+                  <l>To coole their heat, while heat from cooling</l>
+                  <pb n="109" facs="tcp:64991:59"/>
+                  <l>Slumbers which wandring phanſies keep awake,</l>
+                  <l>And ſenſe not lead by objects, but miſtake;</l>
+                  <l>Moſt feavers Limbecks though with theſe they burn</l>
+                  <l>
+                     <gap reason="illegible" resp="#OXF" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>hey leave
+the featur'd carcaſs to the urn,</l>
+                  <l>But thine was born of that offenſive race,</l>
+                  <l>Arm'd to deſtroy, ſhe firſt ſtrove to deface.</l>
+                  <l>And then to cloſe her cruel tragick part,</l>
+                  <l>She ſlew againſt the augury of Art.</l>
+                  <l>No adverſary could worſe ſpight diſplay,</l>
+                  <l>Since it is leſſe to Kill, then to betray.</l>
+                  <l>'Twas ſavage beyond fate; for others lie,</l>
+                  <l>Dead of diſeaſe, you of revovery,</l>
+                  <l>All ſhipwracks horrid are; but yet none more,</l>
+                  <l>Then that, which for its witneſs takes the ſhore.</l>
+               </lg>
+               <lg>
+                  <l>Affronts, plots, ſcandals, falſe friends, cold Allys,</l>
+                  <l>Exiles, wants, tempeſts, battails, rebels, ſpies,</l>
+                  <l>Reſtraints, temptations, ſtrange aires; in all theſe</l>
+                  <l>Was there no Feaver, no malignine diſeaſe?</l>
+                  <l>The Royal line (<hi>England</hi> this brand muſt wear)</l>
+                  <l>Suffer abroad, but periſh only here.</l>
+                  <l>So to the Sun the Phoenix doth repaire,</l>
+                  <l>Through each diſtemper'd Region of the Aire.</l>
+                  <l>Through ſwarms of Deaths ſhe there victorious flies,</l>
+                  <l>But in her cruel Neſt ſhe burns, and dies,</l>
+               </lg>
+               <lg>
+                  <l>Had you reſign'd your late afflicted breath,</l>
+                  <l>When life it ſelf leſſe lovely was then death;</l>
+                  <l>When the kind graves did but receive our care</l>
+                  <pb n="110" facs="tcp:64991:60"/>
+                  <l>And the ſurvivers only wretched were:</l>
+                  <l>Our greedy intereſts might tempted be,</l>
+                  <l>To cal thy vertues back, but hardly thee.</l>
+                  <l>But now when Vines drop Wine from every trunk</l>
+                  <l>To chear their owners, not make rapine drunk;</l>
+                  <l>Our goods find out our unfrequented hands:</l>
+                  <l>And crimes make perſons guilty, and not lands.</l>
+                  <l>When Widdowes houſes are no more a meale,</l>
+                  <l>And Churches ſpoiles are ſacriledge, not zeal.</l>
+                  <l>When our beloved yet dread Soveraigne Head,</l>
+                  <l>Is Crown and Guard to all, but to the Dead.</l>
+                  <l>What <hi>Niobe</hi> can waile our mournful fate?</l>
+                  <l>Snatcht from the beſt of Kings, &amp; happieſt
+ſtate.</l>
+                  <l>The publick peace, and your own large content</l>
+                  <l>In your juſt Brothers equal Government.</l>
+                  <l>Had raiſ'd ſo rich an odour to your ſenſe,</l>
+                  <l>That growing time had tane you ſated hence,</l>
+                  <l>But to depart under four Months return,</l>
+                  <l>To land in England, to prevent your Urne;</l>
+                  <l>Seems their diſaſter, who a bliſs might ſhape,</l>
+                  <l>But looſe their deer enjoyments, by a Rape.</l>
+               </lg>
+               <lg>
+                  <l>And now, moſt wretched we! who ſtate our woe,</l>
+                  <l>By thy afflictions, and thy vertues too.</l>
+               </lg>
+               <lg>
+                  <l>Thy Infancy our cruelty forbore,</l>
+                  <l>Made thee an early Captive, and no more:</l>
+                  <l>Kiſſes that had from Princely parents fell,</l>
+                  <l>From ſervile lips ſeem'd then ſupply'd as well.</l>
+                  <l>Nor could thy ſuffrings then excite thy moane,</l>
+                  <pb n="111" facs="tcp:64991:60"/>
+                  <l>Since ſufferings are no ſufferings when un<g ref="char:EOLhyphen"/>known.</l>
+               </lg>
+               <lg>
+                  <l>Thy childhood, that their nobler cares pro<g ref="char:EOLhyphen"/>tect,</l>
+                  <l>Who ſtrive to ſhow, but are forbid reſpect.</l>
+                  <l>While rude ones ſeek by a misbred reſort</l>
+                  <l>To raſe out all thy lines of birth or Court.</l>
+                  <l>That tutor'd out of Prince, you might be ſent</l>
+                  <l>Into a common-people baniſhment,</l>
+                  <l>But thrift reclames that project, eyes the heap</l>
+                  <l>Of thy expence, and bids thee periſh cheap.</l>
+                  <l>Poſts thee, ere leaſt debaſement could appear</l>
+                  <l>A Gemme to Forreign ſtates, a burden here.</l>
+                  <l>So the rude wayes, fraught with a coſtly piece</l>
+                  <l>Of rich, but Sea neglected amber-greece:</l>
+                  <l>Do, rowling, drive that fragant billow thence:</l>
+                  <l>A perfume to the raviſht finders ſence.</l>
+               </lg>
+               <lg>
+                  <l>Abroad the wide improvement of thy parts,</l>
+                  <l>Drew in ſo faſt the dewes of tongues and arts;</l>
+                  <l>That both in thy accompliſhments were ſpent:</l>
+                  <l>Arts were thy fortreſs, Tongues thy ornament.</l>
+                  <l>Learn'd latine, graceful ſpeech &amp; high of
+<hi>Spain,</hi>
+                  </l>
+                  <l>The courtly <hi>French,</hi> the clean <hi>Italian</hi>
+vain,</l>
+                  <l>The uncouth <hi>Dutch,</hi> theſe langages were known</l>
+                  <l>Indenizon'd as Natives with thy own.</l>
+               </lg>
+               <lg>
+                  <l>Thoſe arts where leaſt advantages are found,</l>
+                  <l>Ev'n thoſe you did deſcry, but would not ſound.</l>
+                  <l>Hiſtorians who record the life of Fame,</l>
+                  <l>And regiſter each good or vicious Name,</l>
+                  <l>You from their ſacred annals did reſume</l>
+                  <pb n="112" facs="tcp:64991:61"/>
+                  <l>Great paſt examples, for your life to come.</l>
+                  <l>Wiſe Navigators that diſcloſe each creek,</l>
+                  <l>And in the more known world, the unknown ſeek,</l>
+                  <l>In their diſcoveries you imbark your Oares;</l>
+                  <l>Becauſe the ſeas do moſt concern theſe ſhores.</l>
+                  <l>By your ſeverer choice ſelecting thus,</l>
+                  <l>What was moſt uſeful, not moſt Curious.</l>
+               </lg>
+               <lg>
+                  <l>Amid'ſt your bright Imbelliſhments beſide;</l>
+                  <l>If truth or education were your guide,</l>
+                  <l>Became a ſifting Quaere: a diſpute,</l>
+                  <l>That will Afflict the world, but ne're confute.</l>
+                  <l>Some to their climes beliefe, their faith do owe:</l>
+                  <l>Which is to be perſwaded; but not know.</l>
+                  <l>You (at fifteen) this evidence did advance,</l>
+                  <l>Religion was your Judgment, not your chance.</l>
+                  <l>Ere eighteen, to Compagnes, your courage view</l>
+                  <l>And <hi>Dunkirks</hi> fight: ſo fam'd for York, and you.</l>
+               </lg>
+               <lg>
+                  <l>'Bout one and twenty we arrived ſee</l>
+                  <l>Others at Age, You at Eternity.</l>
+               </lg>
+               <trailer>FINIS.</trailer>
+            </div>
+            <div n="Mary princess of Orange" type="elegy">
+               <pb n="113" facs="tcp:64991:61"/>
+               <head>AN ELEGIE On the Death of the PRIN<g ref="char:EOLhyphen"/>CESSE of AURANGE.</head>
+               <l>SAd Heav'n of late has pail'd its ſmiling brow,</l>
+               <l>Wept much foreſeeing this loſs which hapen'd now.</l>
+               <l>The clouds ſo big with tears bewept the fate</l>
+               <l>To come, as well as that we ſuffer'd late:</l>
+               <l>Strong were heav'ns ſwelling ſighs, and forraign
+ſhores</l>
+               <l>Heard it's Tempeſtuous groans as well as ours.</l>
+               <l>When <hi>Nature</hi> ſuffers thus the wandring Age</l>
+               <l>With expectation big waites the praeſage:</l>
+               <l>And here it falls within this fatall Iſle,</l>
+               <l>Adding freſh tears to thoſe we ſhed e're while.</l>
+               <l>Hither great <hi>Aurange</hi> came; great dangers paſt,</l>
+               <l>To ſee her Royal brother Crown'd at laſt;</l>
+               <l>To give him joy, and in his joyes to ſhare,</l>
+               <l>To lighten with her preſence Crowned care;</l>
+               <pb n="114" facs="tcp:64991:62"/>
+               <l>But here ſhe finds great <hi>Henry</hi> fled the ſtage</l>
+               <l>Of ſinfull Earth; the wonder of our Age:</l>
+               <l>She ſtayes to ſee her Kingly brother faſt,</l>
+               <l>To ſee Heav'n all new plots, and dangers blaſt,</l>
+               <l>And fully now of Heav'ns care ſatisfy'd,</l>
+               <l>Took leave of him; to ſee great <hi>Henry</hi> dy'd:</l>
+               <l>Such is her kindneſſe, ſuch her conſtant love,</l>
+               <l>She goes to give him joy, of's Crown above.</l>
+               <l>VVhat raging Seas of dangers, and what ſtorms,</l>
+               <l>VVhat foaming billows of Tempeſtuous harmes:</l>
+               <l>The Royal iſſue has eſcap'd! then ar'</l>
+               <l>The <hi>Fates</hi> more cruel in their <hi>Peace,</hi> than
+<hi>War!</hi>
+               </l>
+               <l>Come they but here to pay a debt to <hi>Fate,</hi>
+               </l>
+               <l>Their lives in peace, and reſt to terminate:</l>
+               <l>Not to triumph for all their travels paſt,</l>
+               <l>And crown their paines with Olive boughs at laſt;</l>
+               <l>This late receiv'd, as if content they yeild</l>
+               <l>A willing conqueſt; gain a greater field.</l>
+               <l>Content and all her wiſhes anſwer'd now,</l>
+               <l>This <hi>Princeſs</hi> haſts to Heav'n to pay her Vow.</l>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:64991:62"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
